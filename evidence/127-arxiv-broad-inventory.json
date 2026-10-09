@@ -1,0 +1,188 @@
+{
+  "query": "(all:\"polynomial threshold\" OR all:PTF) AND (all:sensitivity OR all:influence)",
+  "retrieval_url": "https://export.arxiv.org/api/query?search_query=%28all%3A%22polynomial+threshold%22+OR+all%3APTF%29+AND+%28all%3Asensitivity+OR+all%3Ainfluence%29&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending",
+  "total": "30",
+  "entries": [
+    {
+      "id": "http://arxiv.org/abs/2607.09909v1",
+      "title": "Learning Partition Trees for Nearest Neighbor Search",
+      "published": "2026-07-10T18:59:31Z",
+      "updated": "2026-07-10T18:59:31Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.16004v2",
+      "title": "Small moments of the sensitivity of polynomial threshold functions",
+      "published": "2026-06-14T20:18:11Z",
+      "updated": "2026-06-21T17:31:54Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2605.01637v1",
+      "title": "The Banach-Butterfly Invariant: Influence-Adaptive Walsh Geometry for Ternary Polynomial Threshold Functions",
+      "published": "2026-05-02T22:54:29Z",
+      "updated": "2026-05-02T22:54:29Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.22742v1",
+      "title": "Boolean PCSPs through the lens of Fourier Analysis",
+      "published": "2026-04-24T17:40:51Z",
+      "updated": "2026-04-24T17:40:51Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.08095v2",
+      "title": "The Boolean surface area of polynomial threshold functions",
+      "published": "2026-04-09T11:11:06Z",
+      "updated": "2026-04-27T06:28:32Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.13688v2",
+      "title": "Identification of periodicities with arbitrary shapes in AGN light curves",
+      "published": "2025-12-15T18:59:56Z",
+      "updated": "2026-05-22T19:55:02Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.26248v1",
+      "title": "On Boolean PCSPs with Polynomial Threshold Polymorphisms",
+      "published": "2025-09-30T13:38:39Z",
+      "updated": "2025-09-30T13:38:39Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.13708v1",
+      "title": "Robust learning of halfspaces under log-concave marginals",
+      "published": "2025-05-19T20:12:16Z",
+      "updated": "2025-05-19T20:12:16Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2407.17565v1",
+      "title": "Periodicity significance testing with null-signal templates: reassessment of PTF's SMBH binary candidates",
+      "published": "2024-07-24T18:00:09Z",
+      "updated": "2024-07-24T18:00:09Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2308.10181v1",
+      "title": "Stochastic Optimization of Coupled Power Distribution-Urban Transportation Network Operations with Autonomous Mobility on Demand Systems",
+      "published": "2023-08-20T07:05:26Z",
+      "updated": "2023-08-20T07:05:26Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2108.02288v1",
+      "title": "The Gotsman-Linial Conjecture is False",
+      "published": "2021-08-04T21:19:31Z",
+      "updated": "2021-08-04T21:19:31Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2101.08141v2",
+      "title": "Positive spectrahedra: Invariance principles and Pseudorandom generators",
+      "published": "2021-01-20T14:05:49Z",
+      "updated": "2021-06-01T19:56:24Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1609.08018v1",
+      "title": "Small near-Earth asteroids in the Palomar Transient Factory survey: A real-time streak-detection system",
+      "published": "2016-09-26T15:15:09Z",
+      "updated": "2016-09-26T15:15:09Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1408.5425v1",
+      "title": "Heat and Noise on Cubes and Spheres: The Sensitivity of Randomly Rotated Polynomial Threshold Functions",
+      "published": "2014-08-22T20:58:16Z",
+      "updated": "2014-08-22T20:58:16Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1401.6148v2",
+      "title": "Constraining the role of novae as progenitors of Type Ia Supernovae",
+      "published": "2014-01-23T20:14:00Z",
+      "updated": "2015-09-14T16:26:01Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1311.7105v1",
+      "title": "Deterministic Approximate Counting for Degree-$2$ Polynomial Threshold Functions",
+      "published": "2013-11-27T20:13:18Z",
+      "updated": "2013-11-27T20:13:18Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1210.4550v1",
+      "title": "Millions of Multiples: Detecting and Characterizing Close-Separation Binary Systems in Synoptic Sky Surveys",
+      "published": "2012-10-16T20:00:02Z",
+      "updated": "2012-10-16T20:00:02Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1210.1283v1",
+      "title": "The Correct Exponent for the Gotsman-Linial Conjecture",
+      "published": "2012-10-04T03:08:19Z",
+      "updated": "2012-10-04T03:08:19Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1204.0543v2",
+      "title": "A Structure Theorem for Poorly Anticoncentrated Gaussian Chaoses and Applications to the Study of Polynomial Threshold Functions",
+      "published": "2012-04-02T21:37:49Z",
+      "updated": "2012-08-15T21:08:39Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1110.5618v2",
+      "title": "Evidence for a compact Wolf-Rayet progenitor for the Type Ic supernova PTF 10vgv",
+      "published": "2011-10-25T19:25:01Z",
+      "updated": "2012-02-21T19:51:18Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1109.2912v2",
+      "title": "Early radio and X-ray observations of the youngest nearby type Ia supernova PTF11kly (SN 2011fe)",
+      "published": "2011-09-13T20:14:15Z",
+      "updated": "2011-12-27T00:04:44Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1107.2444v1",
+      "title": "Private Data Release via Learning Thresholds",
+      "published": "2011-07-13T00:53:23Z",
+      "updated": "2011-07-13T00:53:23Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1101.0630v1",
+      "title": "PTF/M-dwarfs: A Large New M-dwarf Planetary Transit Survey",
+      "published": "2011-01-04T00:03:07Z",
+      "updated": "2011-01-04T00:03:07Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1012.0061v1",
+      "title": "The Age-Rotation-Activity Relation: From Myrs to Gyrs",
+      "published": "2010-11-30T23:21:58Z",
+      "updated": "2010-11-30T23:21:58Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1005.1455v2",
+      "title": "PTF10fqs: A Luminous Red Nova in the Spiral Galaxy Messier 99",
+      "published": "2010-05-10T06:15:39Z",
+      "updated": "2011-03-27T08:59:53Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0912.2709v1",
+      "title": "The Gaussian Surface Area and Noise Sensitivity of Degree-$d$ Polynomials",
+      "published": "2009-12-14T19:14:03Z",
+      "updated": "2009-12-14T19:14:03Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0909.5175v4",
+      "title": "Bounding the Sensitivity of Polynomial Threshold Functions",
+      "published": "2009-09-28T19:55:46Z",
+      "updated": "2009-11-09T23:23:19Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0909.5011v2",
+      "title": "Average sensitivity and noise sensitivity of polynomial threshold functions",
+      "published": "2009-09-28T06:45:31Z",
+      "updated": "2009-10-19T20:43:09Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0909.4727v2",
+      "title": "A regularity lemma, and low-weight approximators, for low-degree polynomial threshold functions",
+      "published": "2009-09-25T15:54:33Z",
+      "updated": "2010-05-06T01:37:10Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0905.3735v2",
+      "title": "Optical Flares from the Tidal Disruption of Stars by Massive Black Holes",
+      "published": "2009-05-22T19:44:14Z",
+      "updated": "2009-08-31T20:17:10Z"
+    }
+  ],
+  "scope": "Public bibliographic metadata; abstracts excluded."
+}

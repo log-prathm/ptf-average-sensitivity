@@ -1,0 +1,608 @@
+{
+  "query": "all:Gotsman OR (ti:\"polynomial threshold\" AND all:sensitivity)",
+  "retrieval_url": "https://export.arxiv.org/api/query?search_query=all%3AGotsman+OR+%28ti%3A%22polynomial+threshold%22+AND+all%3Asensitivity%29&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending",
+  "total": "150",
+  "entries": [
+    {
+      "id": "http://arxiv.org/abs/2606.16004v2",
+      "title": "Small moments of the sensitivity of polynomial threshold functions",
+      "published": "2026-06-14T20:18:11Z",
+      "updated": "2026-06-21T17:31:54Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2606.03754v1",
+      "title": "Fast TetraBFT: Optimizing Latency Where It Matters",
+      "published": "2026-06-02T15:03:25Z",
+      "updated": "2026-06-02T15:03:25Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2604.08095v2",
+      "title": "The Boolean surface area of polynomial threshold functions",
+      "published": "2026-04-09T11:11:06Z",
+      "updated": "2026-04-27T06:28:32Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.02743v3",
+      "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos (Extended Version)",
+      "published": "2025-11-04T17:11:33Z",
+      "updated": "2026-05-04T10:26:23Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.18648v3",
+      "title": "TEE is not a Healer: Rollback-Resistant Reliable Storage (Extended Version)",
+      "published": "2025-05-24T11:23:26Z",
+      "updated": "2026-04-23T10:05:38Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.03627v2",
+      "title": "Revisiting Lower Bounds for Two-Step Consensus",
+      "published": "2025-05-06T15:28:05Z",
+      "updated": "2026-01-16T09:36:44Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2505.02646v1",
+      "title": "Tight Bounds on Channel Reliability via Generalized Quorum Systems (Extended Version)",
+      "published": "2025-05-05T13:44:22Z",
+      "updated": "2025-05-05T13:44:22Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2409.16141v1",
+      "title": "Sensitivity of $m$-ary functions and low degree partitions of Hamming graphs",
+      "published": "2024-09-24T14:46:10Z",
+      "updated": "2024-09-24T14:46:10Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2408.08702v1",
+      "title": "Vertical Atomic Broadcast and Passive Replication (Extended Version)",
+      "published": "2024-08-16T12:29:12Z",
+      "updated": "2024-08-16T12:29:12Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2305.15150v2",
+      "title": "Fault-Tolerant Computing with Unreliable Channels (Extended Version)",
+      "published": "2023-05-24T13:49:05Z",
+      "updated": "2023-11-28T16:29:33Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2202.06679v3",
+      "title": "Liveness and Latency of Byzantine State-Machine Replication (Extended Version)",
+      "published": "2022-02-14T13:06:06Z",
+      "updated": "2022-10-05T10:51:47Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2108.09483v8",
+      "title": "From Tutte to Floater and Gotsman: On the Resolution of Planar Straight-line Drawings and Morphs",
+      "published": "2021-08-21T10:19:21Z",
+      "updated": "2025-03-01T05:58:23Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2108.02288v1",
+      "title": "The Gotsman-Linial Conjecture is False",
+      "published": "2021-08-04T21:19:31Z",
+      "updated": "2021-08-04T21:19:31Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2106.14086v3",
+      "title": "Planar and Toroidal Morphs Made Easier",
+      "published": "2021-06-26T20:30:42Z",
+      "updated": "2021-09-14T06:17:38Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2106.00344v2",
+      "title": "UniStore: A fault-tolerant marriage of causal and strong consistency (extended version)",
+      "published": "2021-06-01T09:30:23Z",
+      "updated": "2021-07-29T13:26:59Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2104.01142v2",
+      "title": "Efficient Replication via Timestamp Stability (Extended Version)",
+      "published": "2021-04-02T16:44:47Z",
+      "updated": "2021-04-25T08:06:05Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2012.14139v1",
+      "title": "High energy evolution for Gribov-Zwanziger confinement: solution to the equation",
+      "published": "2020-12-28T08:21:11Z",
+      "updated": "2020-12-28T08:21:11Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2011.08912v1",
+      "title": "Multiplicity distributions in the low x regime in a simple model",
+      "published": "2020-11-17T20:04:51Z",
+      "updated": "2020-11-17T20:04:51Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2009.12218v2",
+      "title": "Gribov-Zwanziger confinement, high energy evolution and large impact parameter behaviour of the scattering amplitude",
+      "published": "2020-09-25T13:09:20Z",
+      "updated": "2020-10-12T17:02:38Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2008.10911v2",
+      "title": "High energy QCD: multiplicity dependence of quarkonia production",
+      "published": "2020-08-25T09:45:20Z",
+      "updated": "2020-11-08T07:38:42Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2008.06297v2",
+      "title": "Secure Data Hiding for Contact Tracing",
+      "published": "2020-08-14T11:38:20Z",
+      "updated": "2023-03-10T10:58:20Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2008.04167v1",
+      "title": "Making Byzantine Consensus Live (Extended Version)",
+      "published": "2020-08-10T14:47:59Z",
+      "updated": "2020-08-10T14:47:59Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2006.11793v1",
+      "title": "High energy QCD: multiplicity distribution and entanglement entropy",
+      "published": "2020-06-21T12:56:46Z",
+      "updated": "2020-06-21T12:56:46Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2003.11789v2",
+      "title": "State-Machine Replication for Planet-Scale Systems (Extended Version)",
+      "published": "2020-03-26T08:24:26Z",
+      "updated": "2020-05-18T13:19:10Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/2003.09155v3",
+      "title": "A new parton model for the soft interactions at high energies: the Odderon",
+      "published": "2020-03-20T09:03:26Z",
+      "updated": "2020-04-30T09:25:54Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1911.05145v3",
+      "title": "Deconstructing Stellar Consensus (Extended Version)",
+      "published": "2019-11-12T21:06:36Z",
+      "updated": "2019-12-13T14:35:59Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1910.11662v2",
+      "title": "Large impact parameter behaviour in the CGC/saturation approach: a new non-linear equation",
+      "published": "2019-10-25T12:44:08Z",
+      "updated": "2020-01-06T17:38:52Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1909.03640v2",
+      "title": "Double parton interaction: the values of $\u03c3_{\\rm eff}$",
+      "published": "2019-09-09T06:00:44Z",
+      "updated": "2019-12-09T19:22:30Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1908.05673v3",
+      "title": "A new parton model for the soft interactions at high energies: two channel approximation",
+      "published": "2019-08-15T07:21:11Z",
+      "updated": "2020-04-26T12:42:27Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1908.03179v1",
+      "title": "Privatization-Safe Transactional Memories (Extended Version)",
+      "published": "2019-08-08T17:19:42Z",
+      "updated": "2019-08-08T17:19:42Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1906.01365v1",
+      "title": "Reconfigurable Atomic Transaction Commit (Extended Version)",
+      "published": "2019-06-04T12:07:26Z",
+      "updated": "2019-06-04T12:07:26Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1905.05167v1",
+      "title": "Thermal radiation and inclusive production in the KLN model for ion-ion collisions",
+      "published": "2019-05-13T17:51:52Z",
+      "updated": "2019-05-13T17:51:52Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1904.07171v1",
+      "title": "White-Box Atomic Multicast (Extended Version)",
+      "published": "2019-04-15T16:37:03Z",
+      "updated": "2019-04-15T16:37:03Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1902.07923v2",
+      "title": "Thermal radiation and inclusive production in the CGC/saturation approach at high energies",
+      "published": "2019-02-21T09:04:08Z",
+      "updated": "2019-05-06T15:14:59Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1812.09040v1",
+      "title": "A new parton model for the soft interactions at high energies",
+      "published": "2018-12-21T10:47:30Z",
+      "updated": "2018-12-21T10:47:30Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1812.07441v3",
+      "title": "A Scalable Heuristic for Fastest-Path Computation on Very Large Road Maps",
+      "published": "2018-12-18T15:46:17Z",
+      "updated": "2020-09-04T18:45:26Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1811.03642v1",
+      "title": "Federated Byzantine Quorum Systems (Extended Version)",
+      "published": "2018-11-08T19:03:56Z",
+      "updated": "2018-11-08T19:03:56Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1810.02053v1",
+      "title": "Proceedings 11th Interaction and Concurrency Experience",
+      "published": "2018-10-04T04:44:13Z",
+      "updated": "2018-10-04T04:44:13Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1810.01776v1",
+      "title": "Efficient Fastest-Path Computations in Road Maps",
+      "published": "2018-10-02T13:47:04Z",
+      "updated": "2018-10-02T13:47:04Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1808.04982v3",
+      "title": "Energy evolution and the Bose-Einstein enhancement for double parton densities",
+      "published": "2018-08-15T06:41:32Z",
+      "updated": "2019-03-12T10:10:22Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1808.00688v2",
+      "title": "Multi-Shot Distributed Transaction Commit (Extended Version)",
+      "published": "2018-08-02T06:48:15Z",
+      "updated": "2019-03-12T14:23:53Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1807.06459v2",
+      "title": "CGC/saturation approach: secondary Reggeons and $\u03c1={\\rm Re/Im}$ dependence on energy",
+      "published": "2018-07-16T09:24:09Z",
+      "updated": "2018-09-15T14:52:26Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1807.02783v1",
+      "title": "CGC/saturation approach: re-visiting the problem of odd harmonics in angular correlations",
+      "published": "2018-07-08T08:51:25Z",
+      "updated": "2018-07-08T08:51:25Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1804.02561v1",
+      "title": "Energy evolution of J/$\\mathbf\u03c8$ production in DIS on nuclei",
+      "published": "2018-04-07T13:51:38Z",
+      "updated": "2018-04-07T13:51:38Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1802.05969v1",
+      "title": "Paxos Consensus, Deconstructed and Abstracted (Extended Version)",
+      "published": "2018-02-16T15:05:48Z",
+      "updated": "2018-02-16T15:05:48Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1802.05918v1",
+      "title": "Compositional Verification of Compiler Optimisations on Relaxed Memory",
+      "published": "2018-02-16T12:58:12Z",
+      "updated": "2018-02-16T12:58:12Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1801.07099v1",
+      "title": "On Divergence-based Distance Functions for Multiply-connected Domains",
+      "published": "2018-01-14T14:21:36Z",
+      "updated": "2018-01-14T14:21:36Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1801.04249v1",
+      "title": "Safe Privatization in Transactional Memory",
+      "published": "2018-01-12T17:54:24Z",
+      "updated": "2018-01-12T17:54:24Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1712.06992v1",
+      "title": "CGC/saturation approach: soft interaction at the LHC energies",
+      "published": "2017-12-17T15:30:04Z",
+      "updated": "2017-12-17T15:30:04Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1711.02647v2",
+      "title": "Bose-Einstein enhancement in the evolution of the double parton densities at high energy",
+      "published": "2017-11-07T18:19:17Z",
+      "updated": "2018-02-01T17:35:28Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1709.08954v1",
+      "title": "Azimuthal angle correlations at large rapidities: revisiting density variation mechanism",
+      "published": "2017-09-26T11:57:46Z",
+      "updated": "2017-09-26T11:57:46Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1709.06650v1",
+      "title": "On Graphs and the Gotsman-Linial Conjecture for d = 2",
+      "published": "2017-09-19T21:30:56Z",
+      "updated": "2017-09-19T21:30:56Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1708.05855v1",
+      "title": "Practical Distance Functions for Path-Planning in Planar Domains",
+      "published": "2017-08-19T14:33:50Z",
+      "updated": "2017-08-19T14:33:50Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1708.02845v1",
+      "title": "Path Planning with Divergence-Based Distance Functions",
+      "published": "2017-08-09T13:57:38Z",
+      "updated": "2017-08-09T13:57:38Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1707.09242v1",
+      "title": "Consistency models with global operation sequencing and their composition (extended version)",
+      "published": "2017-07-28T14:09:01Z",
+      "updated": "2017-07-28T14:09:01Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1706.07617v1",
+      "title": "A CGC/saturation approach for angular correlations in proton-proton scattering",
+      "published": "2017-06-23T09:43:16Z",
+      "updated": "2017-06-23T09:43:16Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1705.07406v2",
+      "title": "Bose-Einstein correlations in perturbative QCD: $v_n$ dependence on multiplicity",
+      "published": "2017-05-21T06:59:58Z",
+      "updated": "2017-05-26T04:58:25Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1702.06028v4",
+      "title": "Algebraic Laws for Weak Consistency (Extended Version)",
+      "published": "2017-02-20T15:55:20Z",
+      "updated": "2017-08-01T15:47:01Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1701.05463v4",
+      "title": "Proving Linearizability Using Partial Orders (Extended Version)",
+      "published": "2017-01-19T15:13:14Z",
+      "updated": "2017-07-06T13:35:08Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1611.01653v1",
+      "title": "Perturbative QCD and beyond: azimuthal angle correlations in deuteron-deuteron scattering from Bose-Einstein correlations",
+      "published": "2016-11-05T13:34:58Z",
+      "updated": "2016-11-05T13:34:58Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1609.01171v1",
+      "title": "A Generic Logic for Proving Linearizability (Extended Version)",
+      "published": "2016-09-05T14:12:03Z",
+      "updated": "2016-09-05T14:12:03Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1607.00594v3",
+      "title": "CGC/saturation approach for high energy soft interactions: `soft' Pomeron structure and $v_{n}$ in hadron and nucleus collisions from Bose-Einstein correlation",
+      "published": "2016-07-03T05:23:41Z",
+      "updated": "2016-07-22T15:34:20Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1604.04461v4",
+      "title": "Bose-Einstein correlations and $\\mathbf{v_{2n}}$ and $\\mathbf{v_{2n-1}}$ in hadron and nucleus collisions",
+      "published": "2016-04-15T12:34:04Z",
+      "updated": "2016-07-21T14:09:35Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1603.02143v1",
+      "title": "CGC/saturation approach for high energy soft interactions: $\\mathbf{v_2}$ in proton-proton collisions",
+      "published": "2016-03-07T16:37:42Z",
+      "updated": "2016-03-07T16:37:42Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1510.07249v2",
+      "title": "CGC/saturation approach for soft interactions at high energy: survival probability of the central exclusive production",
+      "published": "2015-10-25T14:24:53Z",
+      "updated": "2015-11-16T21:56:55Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1508.04236v1",
+      "title": "CGC/saturation approach for soft interactions at high energy: long range rapidity correlations",
+      "published": "2015-08-18T08:16:25Z",
+      "updated": "2015-08-18T08:16:25Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1503.04294v1",
+      "title": "CGC/saturation approach for soft interactions at high energy: inclusive production",
+      "published": "2015-03-14T11:40:04Z",
+      "updated": "2015-03-14T11:40:04Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1502.05202v1",
+      "title": "CGC/saturation approach for soft interactions at high energy: a two channel model",
+      "published": "2015-02-18T12:45:23Z",
+      "updated": "2015-02-18T12:45:23Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1408.5425v1",
+      "title": "Heat and Noise on Cubes and Spheres: The Sensitivity of Randomly Rotated Polynomial Threshold Functions",
+      "published": "2014-08-22T20:58:16Z",
+      "updated": "2014-08-22T20:58:16Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1408.3811v3",
+      "title": "A model for strong interactions at high energy based on the CGC/saturation approach",
+      "published": "2014-08-17T11:13:19Z",
+      "updated": "2014-12-02T12:00:11Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1403.4531v1",
+      "title": "A comprehensive model of soft interactions in the LHC era",
+      "published": "2014-03-18T16:47:10Z",
+      "updated": "2014-03-18T16:47:10Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1308.6660v1",
+      "title": "Proton-air collisions in a model of soft interactions at high energies",
+      "published": "2013-08-30T06:40:42Z",
+      "updated": "2013-08-30T06:40:42Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1308.2507v3",
+      "title": "Linearizability with Ownership Transfer",
+      "published": "2013-08-12T09:59:02Z",
+      "updated": "2013-09-20T18:50:21Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1307.4925v1",
+      "title": "Long range rapidity correlations in soft interaction at high energies",
+      "published": "2013-07-18T12:55:30Z",
+      "updated": "2013-07-18T12:55:30Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1304.7627v1",
+      "title": "Amplitudes and Cross Sections at the LHC",
+      "published": "2013-04-29T11:54:58Z",
+      "updated": "2013-04-29T11:54:58Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1303.4110v1",
+      "title": "On Linear Spaces of Polyhedral Meshes",
+      "published": "2013-03-17T22:00:15Z",
+      "updated": "2013-03-17T22:00:15Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1302.4524v1",
+      "title": "Diffraction Production in a Soft Interaction Model: Mass Distributions",
+      "published": "2013-02-19T06:20:13Z",
+      "updated": "2013-02-19T06:20:13Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1210.1283v1",
+      "title": "The Correct Exponent for the Gotsman-Linial Conjecture",
+      "published": "2012-10-04T03:08:19Z",
+      "updated": "2012-10-04T03:08:19Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1208.0898v1",
+      "title": "Description of LHC data in a soft interaction model",
+      "published": "2012-08-04T07:14:44Z",
+      "updated": "2012-08-04T07:14:44Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1204.0543v2",
+      "title": "A Structure Theorem for Poorly Anticoncentrated Gaussian Chaoses and Applications to the Study of Polynomial Threshold Functions",
+      "published": "2012-04-02T21:37:49Z",
+      "updated": "2012-08-15T21:08:39Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1203.2419v2",
+      "title": "Soft interaction model and the LHC data",
+      "published": "2012-03-12T07:53:05Z",
+      "updated": "2012-04-18T18:29:09Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1109.4478v1",
+      "title": "A Model for Soft Interactions motivated by AdS/CFT and QCD",
+      "published": "2011-09-21T06:39:02Z",
+      "updated": "2011-09-21T06:39:02Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1103.4509v1",
+      "title": "Inclusive production in a QCD and N=4 SYM motivated model for soft interactions",
+      "published": "2011-03-23T13:23:46Z",
+      "updated": "2011-03-23T13:23:46Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1101.5816v2",
+      "title": "Survival probability of large rapidity gaps in QCD and N=4 SYM motivated model",
+      "published": "2011-01-30T20:35:38Z",
+      "updated": "2011-03-04T15:18:56Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1011.5553v3",
+      "title": "On affine rigidity",
+      "published": "2010-11-25T05:11:34Z",
+      "updated": "2013-08-13T13:32:55Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1010.5323v1",
+      "title": "N=4 SYM and QCD motivated approach to soft interactions at high energies",
+      "published": "2010-10-26T07:20:31Z",
+      "updated": "2010-10-26T07:20:31Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1002.3527v2",
+      "title": "13th International Conference on Elastic and Diffractive Scattering (Blois Workshop) - Moving Forward into the LHC Era",
+      "published": "2010-02-17T23:38:06Z",
+      "updated": "2011-02-08T22:14:54Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/1001.5157v2",
+      "title": "QCD motivated approach to soft interactions at high energy: inclusive production",
+      "published": "2010-01-28T11:40:53Z",
+      "updated": "2010-03-11T08:34:39Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0912.4689v1",
+      "title": "QCD motivated approach to soft interactions at high energies: nucleus-nucleus and hadron-nucleus collisions",
+      "published": "2009-12-23T16:53:36Z",
+      "updated": "2009-12-23T16:53:36Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0910.1196v1",
+      "title": "Soft Scattering Re - Visited",
+      "published": "2009-10-07T09:26:08Z",
+      "updated": "2009-10-07T09:26:08Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0910.0598v1",
+      "title": "Aspects of Higgs Production at the LHC",
+      "published": "2009-10-04T11:24:17Z",
+      "updated": "2009-10-04T11:24:17Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0909.5175v4",
+      "title": "Bounding the Sensitivity of Polynomial Threshold Functions",
+      "published": "2009-09-28T19:55:46Z",
+      "updated": "2009-11-09T23:23:19Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0909.5011v2",
+      "title": "Average sensitivity and noise sensitivity of polynomial threshold functions",
+      "published": "2009-09-28T06:45:31Z",
+      "updated": "2009-10-19T20:43:09Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0903.0247v1",
+      "title": "The Phenomenology of Pomeron Enhancement",
+      "published": "2009-03-02T10:13:27Z",
+      "updated": "2009-03-02T10:13:27Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0901.1540v2",
+      "title": "Soft interactions at high energies: QCD motivated approach",
+      "published": "2009-01-12T10:34:24Z",
+      "updated": "2009-03-31T11:35:59Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0811.2636v1",
+      "title": "The Interplay between Data and Theory in Recent Unitarity Models",
+      "published": "2008-11-17T08:22:45Z",
+      "updated": "2008-11-17T08:22:45Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0811.0491v2",
+      "title": "Survival Probability at the LHC",
+      "published": "2008-11-04T12:47:13Z",
+      "updated": "2008-11-05T06:13:40Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0806.4787v2",
+      "title": "Locality and Bounding-Box Quality of Two-Dimensional Space-Filling Curves",
+      "published": "2008-06-29T21:47:15Z",
+      "updated": "2008-07-12T12:02:51Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0805.2799v2",
+      "title": "A QCD motivated model for soft interactions at high energies",
+      "published": "2008-05-19T07:13:30Z",
+      "updated": "2008-05-25T08:34:10Z"
+    },
+    {
+      "id": "http://arxiv.org/abs/0805.0418v1",
+      "title": "A Study of Soft Interactions at Ultra High Energies",
+      "published": "2008-05-04T14:33:31Z",
+      "updated": "2008-05-04T14:33:31Z"
+    }
+  ],
+  "scope": "Public bibliographic metadata; abstracts excluded."
+}

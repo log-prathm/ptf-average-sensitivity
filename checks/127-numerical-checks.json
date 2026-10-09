@@ -1,0 +1,578 @@
+{
+  "numpy_version": "2.3.2",
+  "scipy_version": "1.16.1",
+  "random_seed": 127,
+  "couplings": [
+    {
+      "n": 5,
+      "d": 1,
+      "lp_second_moment": 2.75,
+      "analytic_second_moment_bound": 4.6875,
+      "marginal_residual": 0.0,
+      "relaxed_influence_coefficient": 2.23606797749979
+    },
+    {
+      "n": 10,
+      "d": 1,
+      "lp_second_moment": 4.16796875,
+      "analytic_second_moment_bound": 5.921875,
+      "marginal_residual": 0.0,
+      "relaxed_influence_coefficient": 2.636054893280985
+    },
+    {
+      "n": 15,
+      "d": 1,
+      "lp_second_moment": 5.2841796875,
+      "analytic_second_moment_bound": 7.2841796875,
+      "marginal_residual": 0.0,
+      "relaxed_influence_coefficient": 2.7287386570740018
+    },
+    {
+      "n": 20,
+      "d": 2,
+      "lp_second_moment": 10.800552368164062,
+      "analytic_second_moment_bound": 17.619705200195312,
+      "marginal_residual": 0.0,
+      "relaxed_influence_coefficient": 2.23606797749979
+    },
+    {
+      "n": 30,
+      "d": 3,
+      "lp_second_moment": 18.57466748356819,
+      "analytic_second_moment_bound": 32.504500821232796,
+      "marginal_residual": 2.7939677238464355e-08,
+      "relaxed_influence_coefficient": 1.8257418583505538
+    },
+    {
+      "n": 50,
+      "d": 2,
+      "lp_second_moment": 18.904154618578772,
+      "analytic_second_moment_bound": 26.45503453184341,
+      "marginal_residual": 1.411377681392878e-08,
+      "relaxed_influence_coefficient": 2.6734511846792084
+    },
+    {
+      "n": 80,
+      "d": 1,
+      "lp_second_moment": 13.317616051596668,
+      "analytic_second_moment_bound": 15.22846060382516,
+      "marginal_residual": 8.39503731503963e-08,
+      "relaxed_influence_coefficient": 2.9779094789612492
+    },
+    {
+      "n": 80,
+      "d": 10,
+      "lp_second_moment": 70.84014662171312,
+      "analytic_second_moment_bound": 177.8557575478145,
+      "marginal_residual": 2.9356649175652412e-08,
+      "relaxed_influence_coefficient": 0.8944271909999159
+    }
+  ],
+  "gradings": [
+    {
+      "n": 1,
+      "d": 1,
+      "influence": 1.0,
+      "anticommutator_energy_per_vertex": 0.9999999999999994,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 1.1102230246251565e-16
+    },
+    {
+      "n": 1,
+      "d": 1,
+      "influence": 1.0,
+      "anticommutator_energy_per_vertex": 1.0000000000000007,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 1,
+      "d": 1,
+      "influence": 0.0,
+      "anticommutator_energy_per_vertex": 0.878597652654007,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 2,
+      "d": 1,
+      "influence": 1.0,
+      "anticommutator_energy_per_vertex": 1.3768024715117377,
+      "forbidden_block_error": 1.2511389487222407e-16,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 2,
+      "d": 1,
+      "influence": 1.0,
+      "anticommutator_energy_per_vertex": 1.1993368138494667,
+      "forbidden_block_error": 1.3168856573823937e-17,
+      "block_energy_residual": 2.220446049250313e-16
+    },
+    {
+      "n": 2,
+      "d": 1,
+      "influence": 1.0,
+      "anticommutator_energy_per_vertex": 1.1229849067606348,
+      "forbidden_block_error": 1.4662709454962063e-16,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 2,
+      "d": 2,
+      "influence": 1.0,
+      "anticommutator_energy_per_vertex": 1.0908957394412444,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 2,
+      "d": 2,
+      "influence": 1.0,
+      "anticommutator_energy_per_vertex": 1.2139908990107777,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 2.220446049250313e-16
+    },
+    {
+      "n": 2,
+      "d": 2,
+      "influence": 1.0,
+      "anticommutator_energy_per_vertex": 1.3947297022551788,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 3,
+      "d": 1,
+      "influence": 1.0,
+      "anticommutator_energy_per_vertex": 1.213527233514005,
+      "forbidden_block_error": 7.135100493306749e-17,
+      "block_energy_residual": 2.220446049250313e-16
+    },
+    {
+      "n": 3,
+      "d": 1,
+      "influence": 1.0,
+      "anticommutator_energy_per_vertex": 1.010664078037814,
+      "forbidden_block_error": 9.321042800558681e-17,
+      "block_energy_residual": 2.220446049250313e-16
+    },
+    {
+      "n": 3,
+      "d": 1,
+      "influence": 0.75,
+      "anticommutator_energy_per_vertex": 1.2559004261285005,
+      "forbidden_block_error": 3.356635433171692e-17,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 3,
+      "d": 2,
+      "influence": 0.75,
+      "anticommutator_energy_per_vertex": 1.2604791945640148,
+      "forbidden_block_error": 2.565691420298372e-17,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 3,
+      "d": 2,
+      "influence": 1.25,
+      "anticommutator_energy_per_vertex": 1.7403344798725138,
+      "forbidden_block_error": 1.4301199716626774e-17,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 3,
+      "d": 2,
+      "influence": 1.5,
+      "anticommutator_energy_per_vertex": 1.5770093419156317,
+      "forbidden_block_error": 2.1775786477667309e-16,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 3,
+      "d": 3,
+      "influence": 2.0,
+      "anticommutator_energy_per_vertex": 2.3951437760898635,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 3,
+      "d": 3,
+      "influence": 0.75,
+      "anticommutator_energy_per_vertex": 1.6486262248726955,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 3,
+      "d": 3,
+      "influence": 2.25,
+      "anticommutator_energy_per_vertex": 2.515651990720303,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 4,
+      "d": 1,
+      "influence": 1.25,
+      "anticommutator_energy_per_vertex": 1.368274383267897,
+      "forbidden_block_error": 2.1536136963115833e-16,
+      "block_energy_residual": 2.220446049250313e-16
+    },
+    {
+      "n": 4,
+      "d": 1,
+      "influence": 1.5,
+      "anticommutator_energy_per_vertex": 2.0175643916251413,
+      "forbidden_block_error": 2.6180445335811877e-16,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 4,
+      "d": 1,
+      "influence": 1.25,
+      "anticommutator_energy_per_vertex": 1.6149209971362897,
+      "forbidden_block_error": 2.855228461456899e-16,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 4,
+      "d": 2,
+      "influence": 1.5,
+      "anticommutator_energy_per_vertex": 2.1323763009720893,
+      "forbidden_block_error": 9.755411292163573e-17,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 4,
+      "d": 2,
+      "influence": 1.5,
+      "anticommutator_energy_per_vertex": 1.993655373012005,
+      "forbidden_block_error": 5.953962254270175e-17,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 4,
+      "d": 2,
+      "influence": 1.25,
+      "anticommutator_energy_per_vertex": 2.1069314744606267,
+      "forbidden_block_error": 6.638147483936757e-17,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 4,
+      "d": 3,
+      "influence": 1.75,
+      "anticommutator_energy_per_vertex": 2.692016689900136,
+      "forbidden_block_error": 1.6390653175003641e-16,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 4,
+      "d": 3,
+      "influence": 2.0,
+      "anticommutator_energy_per_vertex": 2.3350626582068164,
+      "forbidden_block_error": 4.1396257813399055e-17,
+      "block_energy_residual": 8.881784197001252e-16
+    },
+    {
+      "n": 4,
+      "d": 3,
+      "influence": 2.0,
+      "anticommutator_energy_per_vertex": 2.83991694912059,
+      "forbidden_block_error": 2.616470811422513e-17,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 4,
+      "d": 4,
+      "influence": 2.0,
+      "anticommutator_energy_per_vertex": 2.380778413760029,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 4,
+      "d": 4,
+      "influence": 1.75,
+      "anticommutator_energy_per_vertex": 2.0843724957742737,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 4,
+      "d": 4,
+      "influence": 2.0,
+      "anticommutator_energy_per_vertex": 2.76494902209435,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 5,
+      "d": 1,
+      "influence": 0.0,
+      "anticommutator_energy_per_vertex": 0.8599545830283124,
+      "forbidden_block_error": 2.750885533787197e-16,
+      "block_energy_residual": 2.220446049250313e-16
+    },
+    {
+      "n": 5,
+      "d": 1,
+      "influence": 1.5,
+      "anticommutator_energy_per_vertex": 1.9417747197933828,
+      "forbidden_block_error": 2.4312699488954687e-16,
+      "block_energy_residual": 2.220446049250313e-16
+    },
+    {
+      "n": 5,
+      "d": 1,
+      "influence": 1.5,
+      "anticommutator_energy_per_vertex": 2.0010992383452404,
+      "forbidden_block_error": 3.4337722270267757e-16,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 5,
+      "d": 2,
+      "influence": 1.875,
+      "anticommutator_energy_per_vertex": 2.547770320223267,
+      "forbidden_block_error": 1.8180557067234215e-16,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 5,
+      "d": 2,
+      "influence": 2.0,
+      "anticommutator_energy_per_vertex": 2.5672079028582804,
+      "forbidden_block_error": 2.1462629858932557e-16,
+      "block_energy_residual": 8.881784197001252e-16
+    },
+    {
+      "n": 5,
+      "d": 2,
+      "influence": 1.75,
+      "anticommutator_energy_per_vertex": 2.7724286635840607,
+      "forbidden_block_error": 1.8144336163687638e-16,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 5,
+      "d": 3,
+      "influence": 2.1875,
+      "anticommutator_energy_per_vertex": 2.792592308063454,
+      "forbidden_block_error": 9.082181233403556e-17,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 5,
+      "d": 3,
+      "influence": 2.1875,
+      "anticommutator_energy_per_vertex": 3.1523935251202846,
+      "forbidden_block_error": 9.588285967376452e-17,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 5,
+      "d": 3,
+      "influence": 2.125,
+      "anticommutator_energy_per_vertex": 3.2946618335246107,
+      "forbidden_block_error": 8.674366447177345e-17,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 5,
+      "d": 4,
+      "influence": 2.25,
+      "anticommutator_energy_per_vertex": 2.8028869252083224,
+      "forbidden_block_error": 5.19160208853256e-17,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 5,
+      "d": 4,
+      "influence": 2.4375,
+      "anticommutator_energy_per_vertex": 2.9042351815503435,
+      "forbidden_block_error": 1.160594408660248e-16,
+      "block_energy_residual": 8.881784197001252e-16
+    },
+    {
+      "n": 5,
+      "d": 4,
+      "influence": 2.375,
+      "anticommutator_energy_per_vertex": 3.1699110381466276,
+      "forbidden_block_error": 3.084156351240273e-17,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 5,
+      "d": 5,
+      "influence": 2.5,
+      "anticommutator_energy_per_vertex": 3.033257045912585,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 5,
+      "d": 5,
+      "influence": 2.6875,
+      "anticommutator_energy_per_vertex": 3.3177918210375736,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 5,
+      "d": 5,
+      "influence": 2.8125,
+      "anticommutator_energy_per_vertex": 3.5567861132629024,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 6,
+      "d": 1,
+      "influence": 1.6875,
+      "anticommutator_energy_per_vertex": 2.1094880760684753,
+      "forbidden_block_error": 3.880361960946388e-16,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 6,
+      "d": 1,
+      "influence": 1.625,
+      "anticommutator_energy_per_vertex": 2.171382596554311,
+      "forbidden_block_error": 3.9326614811510086e-16,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 6,
+      "d": 1,
+      "influence": 1.4375,
+      "anticommutator_energy_per_vertex": 1.849433831272297,
+      "forbidden_block_error": 4.24385552123081e-16,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 6,
+      "d": 2,
+      "influence": 2.0625,
+      "anticommutator_energy_per_vertex": 2.8456668294648786,
+      "forbidden_block_error": 2.120636743964206e-16,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 6,
+      "d": 2,
+      "influence": 2.3125,
+      "anticommutator_energy_per_vertex": 3.117903072550355,
+      "forbidden_block_error": 2.300937389355634e-16,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 6,
+      "d": 2,
+      "influence": 1.875,
+      "anticommutator_energy_per_vertex": 2.8522121396576057,
+      "forbidden_block_error": 2.1825436948640133e-16,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 6,
+      "d": 3,
+      "influence": 2.5,
+      "anticommutator_energy_per_vertex": 3.3378598260516843,
+      "forbidden_block_error": 1.750130449011468e-16,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 6,
+      "d": 3,
+      "influence": 2.5,
+      "anticommutator_energy_per_vertex": 3.062429324696457,
+      "forbidden_block_error": 1.0300434096344292e-16,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 6,
+      "d": 3,
+      "influence": 2.5625,
+      "anticommutator_energy_per_vertex": 3.436635804218631,
+      "forbidden_block_error": 1.1833023140102698e-16,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 6,
+      "d": 4,
+      "influence": 2.8125,
+      "anticommutator_energy_per_vertex": 3.4864722059527127,
+      "forbidden_block_error": 6.262875893820984e-17,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 6,
+      "d": 4,
+      "influence": 2.9375,
+      "anticommutator_energy_per_vertex": 3.7034587314696825,
+      "forbidden_block_error": 6.341504736020329e-17,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 6,
+      "d": 4,
+      "influence": 2.6875,
+      "anticommutator_energy_per_vertex": 3.251774638693069,
+      "forbidden_block_error": 1.1716910282458244e-16,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 6,
+      "d": 5,
+      "influence": 3.0625,
+      "anticommutator_energy_per_vertex": 3.6504004614764423,
+      "forbidden_block_error": 2.7533531193654177e-17,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 6,
+      "d": 5,
+      "influence": 3.25,
+      "anticommutator_energy_per_vertex": 3.8653417234025813,
+      "forbidden_block_error": 3.7816462808810756e-17,
+      "block_energy_residual": 4.440892098500626e-16
+    },
+    {
+      "n": 6,
+      "d": 5,
+      "influence": 2.75,
+      "anticommutator_energy_per_vertex": 3.7676429799356734,
+      "forbidden_block_error": 1.5592741998437802e-17,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 6,
+      "d": 6,
+      "influence": 2.875,
+      "anticommutator_energy_per_vertex": 4.017419435845261,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 6,
+      "d": 6,
+      "influence": 3.125,
+      "anticommutator_energy_per_vertex": 3.9147677101198655,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 0.0
+    },
+    {
+      "n": 6,
+      "d": 6,
+      "influence": 3.375,
+      "anticommutator_energy_per_vertex": 4.176120478630985,
+      "forbidden_block_error": 0.0,
+      "block_energy_residual": 0.0
+    }
+  ],
+  "scope": "Numerical sanity checks; not a proof or exact LP certificate."
+}

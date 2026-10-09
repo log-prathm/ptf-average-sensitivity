@@ -1,0 +1,12 @@
+{
+  "literature_check_date": "2026-10-09",
+  "catalogue_commit_observed": "fd4aeeb2ee4fc729c18d98444fed42fd0529eeeb",
+  "retrieval_note": "PDFs fetched from the public main branch; SHA-256 hashes identify the actual local copies. Formalizations were not built or independently audited.",
+  "papers": [
+    {
+      "family": "127",
+      "source_url": "https://github.com/openai/math/blob/main/preprints/Average-Sensitivity-of-Polynomial-Threshold-Functions-September-25-2026/main.pdf",
+      "sha256": "441f9f8a40930603ba88967f00514a974f13a8f8ab901f71206b2b7dc82e4884"
+    }
+  ]
+}

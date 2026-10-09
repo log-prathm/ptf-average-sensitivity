@@ -1,0 +1,180 @@
+{
+  "checked_date": "2026-10-09",
+  "repository_queries": 4,
+  "issue_and_comment_queries": 5,
+  "unique_repository_matches_returned": 61,
+  "unique_issue_and_pull_request_matches_returned": 124,
+  "searches": [
+    {
+      "kind": "repositories",
+      "query": "Gotsman in:name,description,readme is:public",
+      "reported_matches": 46,
+      "returned_matches": 46,
+      "incomplete_results": false
+    },
+    {
+      "kind": "repositories",
+      "query": "\"polynomial threshold\" \"sensitivity\" in:readme is:public",
+      "reported_matches": 10,
+      "returned_matches": 10,
+      "incomplete_results": false
+    },
+    {
+      "kind": "issues",
+      "query": "Gotsman is:public",
+      "reported_matches": 27,
+      "returned_matches": 27,
+      "incomplete_results": false
+    },
+    {
+      "kind": "issues",
+      "query": "\"polynomial threshold\" \"sensitivity\" is:public",
+      "reported_matches": 43,
+      "returned_matches": 43,
+      "incomplete_results": false
+    },
+    {
+      "kind": "issues",
+      "query": "\"average sensitivity\" \"OpenAI\" is:public",
+      "reported_matches": 51,
+      "returned_matches": 51,
+      "incomplete_results": false
+    },
+    {
+      "kind": "repositories",
+      "query": "\"Gotsman-Linial\" in:readme fork:true is:public",
+      "reported_matches": 0,
+      "returned_matches": 0,
+      "incomplete_results": false
+    },
+    {
+      "kind": "repositories",
+      "query": "\"average sensitivity\" \"OpenAI\" in:readme fork:true is:public",
+      "reported_matches": 6,
+      "returned_matches": 6,
+      "incomplete_results": false
+    },
+    {
+      "kind": "issues",
+      "query": "\"Gotsman-Linial\" in:title,body,comments is:public",
+      "reported_matches": 2,
+      "returned_matches": 2,
+      "incomplete_results": false
+    },
+    {
+      "kind": "issues",
+      "query": "\"3.83\" \"polynomial threshold\" in:title,body,comments is:public",
+      "reported_matches": 4,
+      "returned_matches": 4,
+      "incomplete_results": false
+    }
+  ],
+  "upstream_fork_count": 1379,
+  "sampled_unique_forks": 189,
+  "later_push_candidates_compared": 10,
+  "comparisons": [
+    {
+      "repository": "srghma/math",
+      "url": "https://github.com/openai/math/compare/main...srghma:main",
+      "status": "identical",
+      "ahead_by": 0,
+      "changed_file_count": 0,
+      "changed_files": []
+    },
+    {
+      "repository": "akashlevy/math",
+      "url": "https://github.com/openai/math/compare/main...akashlevy:main",
+      "status": "identical",
+      "ahead_by": 0,
+      "changed_file_count": 0,
+      "changed_files": []
+    },
+    {
+      "repository": "Deicyde/math",
+      "url": "https://github.com/openai/math/compare/main...Deicyde:main",
+      "status": "ahead",
+      "ahead_by": 4,
+      "changed_file_count": 13,
+      "changed_files": [
+        "README.md",
+        "lean/ComparatorChallenges/Brenier.json",
+        "lean/ComparatorChallenges/DefocusingNLS.json",
+        "lean/ComparatorChallenges/ElementaryPositivity.json",
+        "lean/ComparatorChallenges/EuclideanFiveColor.json",
+        "lean/ComparatorChallenges/KServer.json",
+        "lean/ComparatorChallenges/LogspaceEquality.json",
+        "lean/ComparatorChallenges/Naimark.json",
+        "lean/ComparatorChallenges/OccupiedOverlap.json",
+        "lean/ComparatorChallenges/Rokhlin.json",
+        "lean/ComparatorChallenges/SpinAngle.json",
+        "lean/OAI/RepresentationTheory/RowColumn/Basic.lean",
+        "lean/OAI/RepresentationTheory/SpinAngle/Core.lean"
+      ]
+    },
+    {
+      "repository": "grwtsk/openai-math",
+      "url": "https://github.com/openai/math/compare/main...grwtsk:main",
+      "status": "identical",
+      "ahead_by": 0,
+      "changed_file_count": 0,
+      "changed_files": []
+    },
+    {
+      "repository": "Stars1233/math-",
+      "url": "https://github.com/openai/math/compare/main...Stars1233:main",
+      "status": "ahead",
+      "ahead_by": 1,
+      "changed_file_count": 1,
+      "changed_files": [
+        ".github/workflows/c-cpp.yml"
+      ]
+    },
+    {
+      "repository": "2404589803/math",
+      "url": "https://github.com/openai/math/compare/main...2404589803:main",
+      "status": "ahead",
+      "ahead_by": 2,
+      "changed_file_count": 1,
+      "changed_files": [
+        ".github/workflows/sync-to-hf.yml"
+      ]
+    },
+    {
+      "repository": "kotique123/openai-math",
+      "url": "https://github.com/openai/math/compare/main...kotique123:main",
+      "status": "identical",
+      "ahead_by": 0,
+      "changed_file_count": 0,
+      "changed_files": []
+    },
+    {
+      "repository": "Chronillogical-Potato/math",
+      "url": "https://github.com/openai/math/compare/main...Chronillogical-Potato:main",
+      "status": "identical",
+      "ahead_by": 0,
+      "changed_file_count": 0,
+      "changed_files": []
+    },
+    {
+      "repository": "borism/openai-math-slop",
+      "url": "https://github.com/openai/math/compare/main...borism:main",
+      "status": "identical",
+      "ahead_by": 0,
+      "changed_file_count": 0,
+      "changed_files": []
+    },
+    {
+      "repository": "fedor-gerasimov-50/opanai-math-repo",
+      "url": "https://github.com/openai/math/compare/main...fedor-gerasimov-50:main",
+      "status": "identical",
+      "ahead_by": 0,
+      "changed_file_count": 0,
+      "changed_files": []
+    }
+  ],
+  "discussion_127_comments": 0,
+  "discussion_127_review_comments": 0,
+  "discussion_127_reviews": 0,
+  "matching_refinement_found": false,
+  "full_code_search": "Unavailable without GitHub authentication; the public REST code-search request returned HTTP 401."
+}

@@ -1,0 +1,25 @@
+{
+  "constant": "383/100",
+  "algebraic_certificate": "524329931/1100000000",
+  "binomial_identity_dimensions": [
+    1,
+    2,
+    5,
+    10,
+    15,
+    50,
+    100,
+    1000
+  ],
+  "central_binomial_checks": 2001,
+  "maximum_dimension": 2000,
+  "nontrivial_dimension_degree_cases": 14584,
+  "trivial_dimension_degree_cases": 1986416,
+  "rational_interval_checks": 3240,
+  "largest_squared_coefficient_in_nontrivial_cases": "55636681/3932160",
+  "finite_maximizer": [
+    15,
+    1
+  ],
+  "scope": "Exact finite checks; universal proof is in the accompanying manuscript."
+}

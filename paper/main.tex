@@ -1,0 +1,414 @@
+% SPDX-License-Identifier: CC-BY-4.0
+\documentclass[11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue]{hyperref}
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+\newcommand{\E}{\mathbb E}
+\newcommand{\Prob}{\mathbb P}
+\newcommand{\AS}{\operatorname{AS}}
+\newcommand{\sgn}{\operatorname{sgn}}
+\newcommand{\HS}{\mathrm{HS}}
+\newcommand{\op}{\mathrm{op}}
+\newcommand{\ind}{\mathbf 1}
+\title{An elementary improvement of the average sensitivity bound\texorpdfstring{\\}{ }for polynomial threshold functions}
+\author{Prathmesh Lagdive\textsuperscript{1,*}\quad
+Vaibhav Aglave\textsuperscript{1}\quad Suraj Damre\textsuperscript{1}\\[0.4em]
+\small\textsuperscript{1}M.\,S. Bidve Engineering College, Latur\\[0.3em]
+\small\textsuperscript{*}Correspondence:
+\href{mailto:lagdiveprathmesh7038@gmail.com}{lagdiveprathmesh7038@gmail.com}}
+\date{October 10, 2026}
+\hypersetup{pdftitle={An elementary improvement of the average sensitivity bound for polynomial threshold functions},pdfauthor={Prathmesh Lagdive, Vaibhav Aglave, Suraj Damre}}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+We refine the weighted Fourier-grading argument of OpenAI for average
+sensitivity on the uniform Boolean cube. For every polynomial threshold
+function of degree at most $d$ in $n$ variables, we obtain
+$\AS(f)\le 3.83\,d\sqrt n$, improving the coefficient $8$ in that argument.
+More precisely, if $b_n=\E|B_n-n/2|$ for
+$B_n\sim\operatorname{Bin}(n,1/2)$, then
+$\AS(f)\le\min\{n,8d b_n+2d^2,10d b_n\}$.
+The improvement follows from separating the two directions of displacement
+in a coupling with equal marginals and a one-sided displacement constraint.
+The proof is uniform in dimension and degree, permits zeros of the defining
+polynomial with the positive sign convention, and yields an asymptotic
+coefficient $8/\sqrt{2\pi}$ when $d=o(\sqrt n)$.
+\end{abstract}
+
+\noindent\textbf{Keywords:} polynomial threshold functions; average sensitivity;
+Boolean functions; coupling; Gotsman--Linial conjecture; Fourier grading.
+\medskip
+
+\section{Statement and relation to previous work}
+Write $\Omega_n=\{-1,1\}^n$ and let $X$ be uniform on $\Omega_n$.
+For $x\in\Omega_n$, let $x^{\oplus i}$ denote $x$ with coordinate $i$ reversed.
+For $f:\Omega_n\to\{-1,1\}$, its average sensitivity is
+\begin{equation}\label{eq:as}
+ \AS(f)=\sum_{i=1}^n\Prob\{f(X)\ne f(X^{\oplus i})\}.
+\end{equation}
+We use $\sgn(t)=1$ for $t\ge0$ and $\sgn(t)=-1$ for $t<0$.
+
+OpenAI \cite{OpenAI} establishes $\AS(f)\le8d\sqrt n$ for a real
+degree-at-most-$d$ polynomial threshold function. Its weighted-grading
+argument reduces the estimate to a coupling of binomial random variables.
+The present note retains that reduction and sharpens the probability step.
+We give the finite-dimensional reduction in Section~\ref{sec:grading},
+following \cite[Lemma 3 and Section 5]{OpenAI}, to make the dependence of
+the numerical coefficient explicit.
+
+Earlier general estimates include those of Harsha et al.~\cite{HKM},
+Diakonikolas et al.~\cite{DRST}, and Kane~\cite{Kane}.
+Kane's bound has the form
+$\sqrt n(\log n)^{O(d\log d)}2^{O(d^2\log d)}$.
+Kabanets, Kane, and Lu \cite{KKL} give another proof of the optimal
+dimension exponent. The stronger conjecture identifying exact symmetric
+maximizers is false \cite{Chapman,KMW}; the result below concerns a
+uniform upper bound, not exact maximizers.
+Recent results of Chang, Slote, Volberg, and Zhang \cite{CSVZ} and of
+Tseng and Volberg \cite{TV} concern fractional sensitivity moments and
+retain logarithmic factors at moment order one.
+Grebennikov \cite{Grebennikov} proves related influence bounds for
+low-degree rational functions and polynomial nonvanishing indicators.
+Those classes differ from arbitrary polynomial sign functions.
+
+\begin{theorem}\label{thm:main}
+Let $n\ge1$ and $0\le d\le n$ be integers, let $p$ be a real polynomial
+of degree at most $d$, and put $f=\sgn p$ on $\Omega_n$. Then
+\begin{equation}\label{eq:main}
+ \AS(f)\le\frac{383}{100}\,d\sqrt n.
+\end{equation}
+With
+\begin{equation}\label{eq:bn}
+ b_n=\frac{n}{2^n}\binom{n-1}{\lfloor(n-1)/2\rfloor}
+     =\E|B_n-n/2|,\qquad B_n\sim\operatorname{Bin}(n,1/2),
+\end{equation}
+the following stronger parameter-dependent estimate holds:
+\begin{equation}\label{eq:strong}
+ \AS(f)\le\min\{n,\;8d b_n+2d^2,\;10d b_n\}.
+\end{equation}
+\end{theorem}
+
+\section{A refined one-sided coupling estimate}
+\begin{lemma}\label{lem:coupling}
+Let $U,V$ have the same distribution, finite variance, and common mean $m$.
+Suppose $V-U\le a$ almost surely, where $a\ge0$, and put
+$b=\E|U-m|$. Then
+\begin{equation}\label{eq:coupling}
+ \E(U-V)^2\le\min\{4ab+a^2,\;5ab\}.
+\end{equation}
+\end{lemma}
+\begin{proof}
+Define $D=V-U$ and
+\[
+ g(t)=\int_m^t|z-m|\,dz=\tfrac12(t-m)|t-m|.
+\]
+For $u<v$, minimizing this integral over intervals of length $v-u$, and
+integrating the chord bound for $|z-m|$, respectively, give
+\begin{equation}\label{eq:interval}
+ \frac{(v-u)^2}{4}\le g(v)-g(u)
+ \le\frac{v-u}{2}\bigl(|u-m|+|v-m|\bigr).
+\end{equation}
+The lower bound can also be checked directly by separating intervals
+that cross $m$ from those contained in one half-line.
+Since $g$ has quadratic growth, the finite second moment makes
+$g(U),g(V)$ integrable. Equal marginals imply
+\[
+ \E[(g(U)-g(V))\ind_{D<0}]
+ =\E[(g(V)-g(U))\ind_{D>0}].
+\]
+On $D<0$, the lower bound in \eqref{eq:interval} controls $D^2$ by four
+times the corresponding potential increment. On $D>0$, its upper bound
+and $D\le a$ control that increment. Consequently,
+\begin{align*}
+ \E[D^2\ind_{D<0}]
+ &\le4\E[(g(U)-g(V))\ind_{D<0}]\\
+ &=4\E[(g(V)-g(U))\ind_{D>0}]\\
+ &\le2a\E[(|U-m|+|V-m|)\ind_{D>0}]\le4ab.
+\end{align*}
+The bounded direction satisfies $\E[D^2\ind_{D>0}]\le a^2$, giving
+the first estimate. Alternatively, $\E D=0$ and the triangle inequality
+give
+\[
+ \E D_+=\tfrac12\E|U-V|\le b,
+ \qquad
+ \E[D^2\ind_{D>0}]\le a\E D_+\le ab.
+\]
+This proves the second estimate. Independence and exchangeability are
+not required.
+\end{proof}
+
+\section{The weighted-grading reduction}\label{sec:grading}
+This section records the reduction from \cite{OpenAI} with the
+normalization in \eqref{eq:as}. All matrix norms and dimensions below
+are finite-dimensional.
+
+Let $N=2^n$ and use the counting inner product on $\mathbb C^{\Omega_n}$.
+For $S\subseteq[n]$, put $\chi_S(x)=\prod_{i\in S}x_i$ and let $V_k$
+be the span of the characters with $|S|\le k$. Fix a positive weight
+$w$, let $D_w$ be multiplication by $\sqrt w$, and set
+\[
+ K_k=D_wV_k,\qquad E_k=K_k\cap K_{k-1}^{\perp},\qquad K_{-1}=\{0\}.
+\]
+Let $\Pi_k$ be the projection onto $E_k$. Since $D_w$ is invertible,
+$\dim E_k=\binom nk$, and the centered grading operator
+\[
+ M=\sum_{k=0}^n(k-n/2)\Pi_k
+\]
+is self-adjoint and has $\|M\|_{\HS}^2=nN/4$.
+If $Z_i$ is multiplication by $x_i$, then
+\begin{equation}\label{eq:adjacent}
+ \Pi_s Z_i\Pi_r=0\qquad\text{for }|s-r|>1.
+\end{equation}
+Indeed, $Z_i$ commutes with $D_w$ and raises polynomial degree by at most
+one; self-adjointness gives the opposite triangular vanishing.
+
+\begin{proposition}[Edge recovery, following OpenAI]\label{prop:edges}
+For $h:\Omega_n\to\{-1,1\}$, let $H$ be multiplication by $h$ and
+let $E_h$ be the set of ordered neighboring pairs $(x,y)$ with $h(x)=h(y)$.
+Then
+\begin{equation}\label{eq:edge-recovery}
+ |E_h|\le2\|MH+HM\|_{\HS}^2.
+\end{equation}
+\end{proposition}
+\begin{proof}
+Put $C_i=[M,Z_i]$. Define the unitaries
+$J=\sum_k(-1)^k\Pi_k$ and $W=\sum_k\mathrm{i}^k\Pi_k$.
+By \eqref{eq:adjacent},
+$O_i=(Z_i-JZ_iJ)/2$ consists of the adjacent-grade blocks of $Z_i$.
+Thus $WO_iW^*=\mathrm{i}C_i$ and $\|C_i\|_{\op}\le1$.
+In the point basis $(C_i)_{xy}=(y_i-x_i)M_{xy}$, so
+$|M_{xy}|\le1/2$ for $x\ne y$.
+Also, \eqref{eq:adjacent} gives $\|C_i\|_{\HS}^2\le N$.
+Writing $\rho$ for Hamming distance,
+\[
+ \sum_{x,y}\rho(x,y)|M_{xy}|^2
+ =\tfrac14\sum_i\|C_i\|_{\HS}^2
+ \le\tfrac{nN}{4}=\sum_{x,y}|M_{xy}|^2.
+\]
+Let $A_0=\sum_x|M_{xx}|^2$ and
+$F=\sum_{\rho(x,y)\ge2}|M_{xy}|^2$. The preceding inequality gives
+$F\le A_0$. Since there are $nN$ ordered neighboring pairs,
+\[
+ \sum_{\rho(x,y)=1}\bigl(1/4-|M_{xy}|^2\bigr)=A_0+F\le2A_0.
+\]
+Every summand is nonnegative. With
+$A_h=\sum_{(x,y)\in E_h}|M_{xy}|^2$, we therefore have
+$|E_h|/4\le A_h+2A_0\le2(A_h+A_0)$.
+The entries of $T=MH+HM$ are
+$T_{xy}=(h(x)+h(y))M_{xy}$. Its squared norm is at least
+$4(A_h+A_0)$, proving \eqref{eq:edge-recovery}.
+\end{proof}
+
+\begin{proposition}[Binomial coupling, following OpenAI]\label{prop:reduction}
+For $f=\sgn p$ of degree at most $d$, there is a coupling $U,V$ of
+$\operatorname{Bin}(n,1/2)$ such that $V-U\le d$ and
+\begin{equation}\label{eq:reduction}
+ \AS(f)\le2\E(U-V)^2.
+\end{equation}
+\end{proposition}
+\begin{proof}
+Multilinearization preserves the values of $p$ on the cube without raising
+its degree. By adding a sufficiently small positive constant, one can
+also ensure that $p$ never vanishes while preserving $f$ under the stated
+sign convention. Put
+$\chi=\chi_{[n]}$, $w=|p|$, and $h=\chi f$.
+Equal-sign neighbors for $h$ are precisely the sensitive neighbors for
+$f$, so $\AS(f)=|E_h|/N$.
+
+The Fourier support of $q=\chi p$ lies in degrees at least $n-d$.
+For $a\in V_r$ and $b\in V_s$,
+\[
+ \langle D_wb,HD_wa\rangle=\sum_x\overline{b(x)}a(x)q(x)=0
+ \qquad\text{if }r+s<n-d.
+\]
+Here $\overline b a$ has Fourier degree at most $r+s$.
+Hence $\Pi_sH\Pi_r=0$ in this range.
+Since $H$ is a self-adjoint unitary, the nonnegative weights
+\[
+ \Prob(R=r,S=s)=N^{-1}\|\Pi_sH\Pi_r\|_{\HS}^2
+\]
+have both marginals $2^{-n}\binom nr$.
+The blocks of $T=MH+HM$ satisfy
+$\Pi_sT\Pi_r=(s+r-n)\Pi_sH\Pi_r$, giving
+\[
+ N^{-1}\|T\|_{\HS}^2=\E(R+S-n)^2.
+\]
+Now put $U=S$ and $V=n-R$. Binomial symmetry preserves the marginal
+law, and $R+S\ge n-d$ gives $V-U\le d$. Applying
+Proposition~\ref{prop:edges} proves \eqref{eq:reduction}.
+\end{proof}
+
+\section{Extracting the uniform constant}
+Applying Lemma~\ref{lem:coupling} to Proposition~\ref{prop:reduction}
+with $a=d$ gives
+$\AS(f)\le\min\{8d b_n+2d^2,10d b_n\}$.
+Together with $\AS(f)\le n$, this proves \eqref{eq:strong}.
+
+For completeness, set $c_k=4^{-k}\binom{2k}{k}$.
+Summing the upper half of the binomial law and using
+$j\binom nj=n\binom{n-1}{j-1}$ yields
+\[
+ b_{2k}=kc_k,\qquad b_{2k+1}=(2k+1)c_k/2,
+\]
+and hence \eqref{eq:bn}.
+The inequality
+\begin{equation}\label{eq:central}
+ c_k\le(3k+1)^{-1/2}\qquad(k\ge0)
+\end{equation}
+follows by induction from $c_0=1$, the ratio
+$c_{k+1}/c_k=(2k+1)/(2k+2)$, and the identity
+\[
+ (2k+2)^2(3k+1)-(2k+1)^2(3k+4)=k\ge0.
+\]
+For even $n=2k$, this gives
+$8b_n/\sqrt n\le4\sqrt{2k/(3k+1)}\le4\sqrt{2/3}$.
+For odd $n=2k+1\ge15$, the decreasing ratio
+$(2k+1)/(3k+1)$ gives
+$8b_n/\sqrt n\le4\sqrt{15/22}$.
+Thus, for every $n\ge15$,
+\begin{equation}\label{eq:K}
+ \frac{8b_n}{\sqrt n}\le K:=4\sqrt{15/22}.
+\end{equation}
+
+Let $C=383/100$. If $d=0$, then $f$ is constant.
+For $d\ge1$, first suppose $n\le C^2d^2$. In this case
+$\AS(f)\le n\le Cd\sqrt n$.
+Otherwise $n>C^2d^2\ge14.6689$, so $n\ge15$ and $d/\sqrt n<1/C$.
+Equations~\eqref{eq:strong} and~\eqref{eq:K} give
+\[
+ \frac{\AS(f)}{d\sqrt n}<K+\frac2C<C.
+\]
+The final comparison holds exactly: $C-2/C>0$, $K^2=120/11$, and
+\[
+ (C^2-2)^2-\frac{120}{11}C^2
+ =\frac{524329931}{1100000000}>0.
+\]
+This proves Theorem~\ref{thm:main}.
+Finally, Stirling's formula gives
+$b_n=\sqrt{n/(2\pi)}(1+O(1/n))$; inserting this in \eqref{eq:strong}
+yields the asymptotic coefficient stated in the abstract.
+
+\begin{remark}
+The value $3.83$ is a convenient sufficient uniform coefficient.
+It is not asserted to be optimal. The parameter-dependent bound
+\eqref{eq:strong} can be substantially smaller in particular regimes.
+The estimates and the final rational comparison are analytic; numerical
+coupling and matrix experiments are not used to prove the theorem.
+\end{remark}
+
+\section{Verification and discussion}
+The universal bound follows from the analytic lemmas and case split above.
+For reproducibility, Supplementary Material~S1
+(\texttt{supplementary-verification.zip}) contains the exact-arithmetic
+script \texttt{verify\_127.py}, its recorded output, and supplemental
+coupling and matrix experiments. The exact checks verify the rational
+certificate, binomial identities, the central-binomial induction inequality,
+and the resulting estimate through dimension $2000$. This covers $14{,}584$
+nontrivial dimension--degree pairs and $1{,}986{,}416$ pairs in the trivial
+branch, together with $3{,}240$ rational interval checks.
+
+The supplemental numerical checks comprise eight coupling linear programs
+and $63$ weighted-grading examples. Their floating-point output is
+exploratory and is not used as a premise in the proof. The coefficient
+$3.83$ is sufficient uniformly; the more precise estimate
+\eqref{eq:strong} can be smaller when $d$ is small relative to $\sqrt n$.
+This note does not claim an optimal coefficient, exhaustive confirmation
+of historical priority, or a Lean formalization of the refinement.
+
+\paragraph{Use of artificial intelligence.}
+OpenAI Codex assisted with deriving the probability refinement, preparing
+the exposition, conducting literature searches, and generating and checking
+exact-arithmetic and numerical verification scripts. The separate proof
+audit was also AI-assisted and is not an independent human referee report.
+The weighted-grading construction and edge-recovery argument are due to
+OpenAI~\cite{OpenAI}. The full argument is provided so that the refinement
+can be examined independently.
+
+\section*{Declarations}
+\paragraph{Funding.} This research received no external funding.
+\paragraph{Conflicts of interest.} The authors declare no conflicts of interest.
+\paragraph{Data and code availability.}
+No empirical datasets were collected. The verification scripts and recorded
+exact and numerical outputs are included in Supplementary Material~S1.
+The exact script uses only the Python standard library; optional numerical
+checks use NumPy and SciPy. Reproduction instructions and software versions
+are provided in the supplementary archive.
+\paragraph{Ethics approval and consent to participate.}
+Not applicable. This mathematical study involves no human participants,
+animals, or personal participant data.
+\paragraph{Consent for publication.}
+Not applicable to participant information; no personal participant data
+are reported.
+\paragraph{License.}
+The manuscript and its LaTeX source are made available under the
+\href{https://creativecommons.org/licenses/by/4.0/}{Creative Commons
+Attribution 4.0 International license (CC BY 4.0)}. The supplementary
+verification code is provided under the Apache License, Version~2.0.
+
+\begin{thebibliography}{10}
+\bibitem{OpenAI}
+OpenAI, \emph{Average sensitivity of polynomial threshold functions},
+preprint, September 25, 2026, released October 6, 2026.
+\href{https://github.com/openai/math/blob/main/preprints/Average-Sensitivity-of-Polynomial-Threshold-Functions-September-25-2026/main.pdf}{OpenAI Math Release, family 127}.
+
+\bibitem{HKM}
+P. Harsha, A. Klivans, and R. Meka,
+\emph{Bounding the sensitivity of polynomial threshold functions},
+Theory of Computing \textbf{10} (2014), 1--26.
+\href{https://doi.org/10.4086/toc.2014.v010a001}{doi:10.4086/toc.2014.v010a001}.
+
+\bibitem{DRST}
+I. Diakonikolas, P. Raghavendra, R. A. Servedio, and L.-Y. Tan,
+\emph{Average sensitivity and noise sensitivity of polynomial threshold
+functions}, SIAM Journal on Computing \textbf{43} (2014), 231--253.
+\href{https://doi.org/10.1137/110855223}{doi:10.1137/110855223}.
+
+\bibitem{Kane}
+D. M. Kane, \emph{The correct exponent for the Gotsman--Linial conjecture},
+Computational Complexity \textbf{23} (2014), 151--175.
+\href{https://arxiv.org/abs/1210.1283}{arXiv:1210.1283}.
+
+\bibitem{KKL}
+V. Kabanets, D. M. Kane, and Z. Lu,
+\emph{A polynomial restriction lemma with applications},
+Proceedings of STOC 2017, 615--628.
+\href{https://doi.org/10.1145/3055399.3055470}{doi:10.1145/3055399.3055470}.
+
+\bibitem{Chapman}
+B. Chapman, \emph{The Gotsman--Linial conjecture is false},
+Proceedings of SODA 2018, 692--699.
+\href{https://arxiv.org/abs/2108.02288}{arXiv:2108.02288}.
+
+\bibitem{KMW}
+H. W. Kim, C. Maldonado, and J. Wellens,
+\emph{On graphs and the Gotsman--Linial conjecture for $d=2$},
+preprint, 2017.
+\href{https://arxiv.org/abs/1709.06650}{arXiv:1709.06650}.
+
+\bibitem{CSVZ}
+F. Chang, J. Slote, A. Volberg, and H. Zhang,
+\emph{The Boolean surface area of polynomial threshold functions},
+preprint, 2026.
+\href{https://arxiv.org/abs/2604.08095}{arXiv:2604.08095}, version 2.
+
+\bibitem{TV}
+C.-K. Tseng and A. Volberg,
+\emph{Small moments of the sensitivity of polynomial threshold functions},
+preprint, 2026.
+\href{https://arxiv.org/abs/2606.16004}{arXiv:2606.16004}, version 2.
+
+\bibitem{Grebennikov}
+A. Grebennikov, \emph{Optimal bound for the polynomial Littlewood--Offord
+problem}, preprint, 2026.
+\href{https://arxiv.org/abs/2610.08708}{arXiv:2610.08708}, version 2.
+\end{thebibliography}
+\end{document}

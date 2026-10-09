@@ -1,0 +1,1206 @@
+{
+  "retrieval_url": "https://api.semanticscholar.org/graph/v1/paper/arXiv:1210.1283/citations?fields=title%2Cauthors%2Cyear%2Cabstract%2CexternalIds%2Curl&limit=100",
+  "retrieval_date": "2026-10-09",
+  "papers": [
+    {
+      "paperId": "705ccb215f29ad49f04e957028a7b70a9bce754e",
+      "externalIds": {
+        "ArXiv": "2610.08708",
+        "CorpusId": 292662871
+      },
+      "url": "https://www.semanticscholar.org/paper/705ccb215f29ad49f04e957028a7b70a9bce754e",
+      "title": "Optimal bound for the polynomial Littlewood-Offord problem",
+      "year": 2026,
+      "authors": [
+        {
+          "authorId": "2288527607",
+          "name": "Alexandr Grebennikov"
+        }
+      ]
+    },
+    {
+      "paperId": "a966a12f57711f892903e2ad230f713d100d3682",
+      "externalIds": {
+        "ArXiv": "2606.16004",
+        "CorpusId": 289299990
+      },
+      "url": "https://www.semanticscholar.org/paper/a966a12f57711f892903e2ad230f713d100d3682",
+      "title": "Small moments of the sensitivity of polynomial threshold functions",
+      "year": 2026,
+      "authors": [
+        {
+          "authorId": "2355628687",
+          "name": "Chun-Kai Tseng"
+        },
+        {
+          "authorId": "2301274746",
+          "name": "Alexander Volberg"
+        }
+      ]
+    },
+    {
+      "paperId": "8368d0413a36056707fa229c54ee022f6369eb8a",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2605-12171",
+        "ArXiv": "2605.12171",
+        "DOI": "10.48550/arXiv.2605.12171",
+        "CorpusId": 288256409
+      },
+      "url": "https://www.semanticscholar.org/paper/8368d0413a36056707fa229c54ee022f6369eb8a",
+      "title": "Lower bounds for one-layer transformers that compute parity",
+      "year": 2026,
+      "authors": [
+        {
+          "authorId": "2305684189",
+          "name": "Daniel Hsu"
+        }
+      ]
+    },
+    {
+      "paperId": "0bbd5293ed99bccedb02e2264a8e0bbd83cf2f0c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2604-08095",
+        "ArXiv": "2604.08095",
+        "DOI": "10.48550/arXiv.2604.08095",
+        "CorpusId": 287256568
+      },
+      "url": "https://www.semanticscholar.org/paper/0bbd5293ed99bccedb02e2264a8e0bbd83cf2f0c",
+      "title": "The Boolean surface area of polynomial threshold functions",
+      "year": 2026,
+      "authors": [
+        {
+          "authorId": "2387866642",
+          "name": "Fan Chang"
+        },
+        {
+          "authorId": "5662014",
+          "name": "Joseph Slote"
+        },
+        {
+          "authorId": "2301274746",
+          "name": "Alexander Volberg"
+        },
+        {
+          "authorId": "2258565557",
+          "name": "Haonan Zhang"
+        }
+      ]
+    },
+    {
+      "paperId": "fa5bd830db6491f9acaaad334264f3f38c266f32",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2602-05896",
+        "ArXiv": "2602.05896",
+        "DOI": "10.48550/arXiv.2602.05896",
+        "CorpusId": 285303924
+      },
+      "url": "https://www.semanticscholar.org/paper/fa5bd830db6491f9acaaad334264f3f38c266f32",
+      "title": "Parity, Sensitivity, and Transformers",
+      "year": 2026,
+      "authors": [
+        {
+          "authorId": "1699029",
+          "name": "A. Kozachinskiy"
+        },
+        {
+          "authorId": "30772295",
+          "name": "Tomasz Steifer"
+        },
+        {
+          "authorId": "2898707",
+          "name": "P. Walega"
+        }
+      ]
+    },
+    {
+      "paperId": "c3cae91b19b78ba12026e23f36cfd343a404d87c",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2601-08727",
+        "ArXiv": "2601.08727",
+        "DOI": "10.48550/arXiv.2601.08727",
+        "CorpusId": 284704315
+      },
+      "url": "https://www.semanticscholar.org/paper/c3cae91b19b78ba12026e23f36cfd343a404d87c",
+      "title": "Rational degree is polynomially related to degree",
+      "year": 2026,
+      "authors": [
+        {
+          "authorId": "34951270",
+          "name": "Robin Kothari"
+        },
+        {
+          "authorId": "2352288748",
+          "name": "Matt Kovacs-Deak"
+        },
+        {
+          "authorId": "2257375508",
+          "name": "Daochen Wang"
+        },
+        {
+          "authorId": "71930769",
+          "name": "Raina Yang"
+        }
+      ]
+    },
+    {
+      "paperId": "862818db8308e9799560891203e7ffec7243c6e9",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2511-19398",
+        "ArXiv": "2511.19398",
+        "DOI": "10.1109/FOCS63196.2025.00107",
+        "CorpusId": 283243691
+      },
+      "url": "https://www.semanticscholar.org/paper/862818db8308e9799560891203e7ffec7243c6e9",
+      "title": "PTF Testing Lower Bounds for Non-Gaussian Component Analysis",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "2287921182",
+          "name": "Ilias Diakonikolas"
+        },
+        {
+          "authorId": "2261387608",
+          "name": "Daniel M. Kane"
+        },
+        {
+          "authorId": "2261649355",
+          "name": "Sihan Liu"
+        },
+        {
+          "authorId": "2047995714",
+          "name": "Thanasis Pittas"
+        }
+      ]
+    },
+    {
+      "paperId": "e32f22f0cc08a0a3c52a5c64e3f9eb48fc7adc07",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2511-08791",
+        "ArXiv": "2511.08791",
+        "DOI": "10.48550/arXiv.2511.08791",
+        "CorpusId": 282940434
+      },
+      "url": "https://www.semanticscholar.org/paper/e32f22f0cc08a0a3c52a5c64e3f9eb48fc7adc07",
+      "title": "The Probably Approximately Correct Learning Model in Computational Learning Theory",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "2315814888",
+          "name": "Rocco A. Servedio"
+        }
+      ]
+    },
+    {
+      "paperId": "6fa53073e640c2d828ce069e6cbe2c0e1834fd8c",
+      "externalIds": {
+        "ArXiv": "2510.24691",
+        "CorpusId": 282401241
+      },
+      "url": "https://www.semanticscholar.org/paper/6fa53073e640c2d828ce069e6cbe2c0e1834fd8c",
+      "title": "Edge-statistics beyond $1/e$",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "2288527607",
+          "name": "Alexandr Grebennikov"
+        },
+        {
+          "authorId": "2386616411",
+          "name": "Matthew Kwan"
+        }
+      ]
+    },
+    {
+      "paperId": "135227d8c10f0cd11d49d0bc95b93bd308da3ebd",
+      "externalIds": {
+        "ArXiv": "2505.24699",
+        "CorpusId": 279070784
+      },
+      "url": "https://www.semanticscholar.org/paper/135227d8c10f0cd11d49d0bc95b93bd308da3ebd",
+      "title": "Geometric Littlewood-Offord problems via lattice point counting",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "2288527607",
+          "name": "Alexandr Grebennikov"
+        },
+        {
+          "authorId": "2275597522",
+          "name": "Matthew Kwan"
+        }
+      ]
+    },
+    {
+      "paperId": "4a7b2e3dac0eb308ac48c69c0f48544ce7e2aa68",
+      "externalIds": {
+        "ArXiv": "2505.23335",
+        "CorpusId": 278995759
+      },
+      "url": "https://www.semanticscholar.org/paper/4a7b2e3dac0eb308ac48c69c0f48544ce7e2aa68",
+      "title": "Algebraic aspects of the polynomial Littlewood-Offord problem",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "2342649137",
+          "name": "Zhihan Jin"
+        },
+        {
+          "authorId": "2275597522",
+          "name": "Matthew Kwan"
+        },
+        {
+          "authorId": "46213075",
+          "name": "Lisa Sauermann"
+        },
+        {
+          "authorId": "2316429544",
+          "name": "Yiting Wang"
+        }
+      ]
+    },
+    {
+      "paperId": "0cf9d725459eb12dbcb19d96a07db98294f62b27",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2505-20177",
+        "ArXiv": "2505.20177",
+        "DOI": "10.48550/arXiv.2505.20177",
+        "CorpusId": 278911594
+      },
+      "url": "https://www.semanticscholar.org/paper/0cf9d725459eb12dbcb19d96a07db98294f62b27",
+      "title": "The Power of Iterative Filtering for Supervised Learning with (Heavy) Contamination",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "1682471",
+          "name": "Adam R. Klivans"
+        },
+        {
+          "authorId": "2268410389",
+          "name": "Konstantinos Stavropoulos"
+        },
+        {
+          "authorId": "2340683590",
+          "name": "Kevin Tian"
+        },
+        {
+          "authorId": "103111801",
+          "name": "A. Vasilyan"
+        }
+      ]
+    },
+    {
+      "paperId": "0e59391738a5a36676ca8f350230d4a037fe0e88",
+      "externalIds": {
+        "ArXiv": "2505.03954",
+        "DOI": "10.1093/imrn/rnaf273",
+        "CorpusId": 278368204
+      },
+      "url": "https://www.semanticscholar.org/paper/0e59391738a5a36676ca8f350230d4a037fe0e88",
+      "title": "The Edge-Statistics Conjecture for Hypergraphs",
+      "year": 2025,
+      "authors": [
+        {
+          "authorId": "2304753206",
+          "name": "Vishesh Jain"
+        },
+        {
+          "authorId": "2341538008",
+          "name": "Matthew Kwan"
+        },
+        {
+          "authorId": "1736628",
+          "name": "D. Mubayi"
+        },
+        {
+          "authorId": "2361711303",
+          "name": "Tuan Tran"
+        }
+      ]
+    },
+    {
+      "paperId": "98ece431c1dd8c595f7d1f6f712ec7dcd55697d6",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2402-08133",
+        "ArXiv": "2402.08133",
+        "DOI": "10.1145/3618260.3649633",
+        "CorpusId": 267637142
+      },
+      "url": "https://www.semanticscholar.org/paper/98ece431c1dd8c595f7d1f6f712ec7dcd55697d6",
+      "title": "Detecting Low-Degree Truncation",
+      "year": 2024,
+      "authors": [
+        {
+          "authorId": "35465854",
+          "name": "Anindya De"
+        },
+        {
+          "authorId": "2286659316",
+          "name": "Huan Li"
+        },
+        {
+          "authorId": "2040280562",
+          "name": "Shivam Nadimpalli"
+        },
+        {
+          "authorId": "2257177368",
+          "name": "Rocco A. Servedio"
+        }
+      ]
+    },
+    {
+      "paperId": "0df72ac157cf65d1c999fa8fd0cdd9b18a3445de",
+      "externalIds": {
+        "ArXiv": "2312.13826",
+        "DOI": "10.1112/S0010437X25102789",
+        "CorpusId": 266435348
+      },
+      "url": "https://www.semanticscholar.org/paper/0df72ac157cf65d1c999fa8fd0cdd9b18a3445de",
+      "title": "Resolution of the quadratic Littlewood\u2013Offord problem",
+      "year": 2023,
+      "authors": [
+        {
+          "authorId": "2275597522",
+          "name": "Matthew Kwan"
+        },
+        {
+          "authorId": "46213075",
+          "name": "Lisa Sauermann"
+        }
+      ]
+    },
+    {
+      "paperId": "3069bf1e19b9b70374c4d8e0399f73116dfb18cb",
+      "externalIds": {
+        "ArXiv": "2303.05435",
+        "DOI": "10.4171/jems/1692",
+        "CorpusId": 257427571
+      },
+      "url": "https://www.semanticscholar.org/paper/3069bf1e19b9b70374c4d8e0399f73116dfb18cb",
+      "title": "The exact rank of sparse random graphs",
+      "year": 2023,
+      "authors": [
+        {
+          "authorId": "1678348367",
+          "name": "Margalit Glasgow"
+        },
+        {
+          "authorId": "31012884",
+          "name": "Matthew Kwan"
+        },
+        {
+          "authorId": "2728009",
+          "name": "Ashwin Sah"
+        },
+        {
+          "authorId": "1814017",
+          "name": "Mehtaab Sawhney"
+        }
+      ]
+    },
+    {
+      "paperId": "d956a17d29f843d7994cbce3c8f8e8cd1fd096cf",
+      "externalIds": {
+        "ArXiv": "2206.08276",
+        "DOI": "10.1007/s00029-023-00911-5",
+        "CorpusId": 249712388
+      },
+      "url": "https://www.semanticscholar.org/paper/d956a17d29f843d7994cbce3c8f8e8cd1fd096cf",
+      "title": "Multiplicative structures and random walks in o-minimal groups",
+      "year": 2022,
+      "authors": [
+        {
+          "authorId": "144521458",
+          "name": "Hunter Spink"
+        }
+      ]
+    },
+    {
+      "paperId": "32e8180ec0e060fc82c7f73281f4909b6b53fe10",
+      "externalIds": {
+        "ArXiv": "2106.05719",
+        "DOI": "10.1215/00127094-2022-0060",
+        "CorpusId": 235391053
+      },
+      "url": "https://www.semanticscholar.org/paper/32e8180ec0e060fc82c7f73281f4909b6b53fe10",
+      "title": "Singularity of the k-core of a random graph",
+      "year": 2021,
+      "authors": [
+        {
+          "authorId": "35033129",
+          "name": "A. Ferber"
+        },
+        {
+          "authorId": "31012884",
+          "name": "Matthew Kwan"
+        },
+        {
+          "authorId": "2728009",
+          "name": "Ashwin Sah"
+        },
+        {
+          "authorId": "1814017",
+          "name": "Mehtaab Sawhney"
+        }
+      ]
+    },
+    {
+      "paperId": "0c45ce2e5652bb83fd0c98004fb8bab765f75655",
+      "externalIds": {
+        "ArXiv": "2106.04894",
+        "DOI": "10.1214/22-aop1590",
+        "CorpusId": 235376745
+      },
+      "url": "https://www.semanticscholar.org/paper/0c45ce2e5652bb83fd0c98004fb8bab765f75655",
+      "title": "Geometric and o-minimal Littlewood\u2013Offord problems",
+      "year": 2021,
+      "authors": [
+        {
+          "authorId": "31734961",
+          "name": "Jacob Fox"
+        },
+        {
+          "authorId": "31012884",
+          "name": "Matthew Kwan"
+        },
+        {
+          "authorId": "144521458",
+          "name": "Hunter Spink"
+        }
+      ]
+    },
+    {
+      "paperId": "77ecb22b01919f3ed7562b48a027dc0bec2ed7fc",
+      "externalIds": {
+        "DBLP": "journals/eccc/KelleyM21",
+        "ArXiv": "2103.14134",
+        "DOI": "10.4230/LIPIcs.CCC.2022.21",
+        "CorpusId": 232379922
+      },
+      "url": "https://www.semanticscholar.org/paper/77ecb22b01919f3ed7562b48a027dc0bec2ed7fc",
+      "title": "Random restrictions and PRGs for PTFs in gaussian space",
+      "year": 2021,
+      "authors": [
+        {
+          "authorId": "32135256",
+          "name": "Zander Kelley"
+        },
+        {
+          "authorId": "1751621",
+          "name": "Raghu Meka"
+        }
+      ]
+    },
+    {
+      "paperId": "e165ad94127186e4c716d3b9f802b6e1e74c5374",
+      "externalIds": {
+        "MAG": "3003808123",
+        "ArXiv": "1911.07375",
+        "DBLP": "journals/eccc/BlancLT19",
+        "DOI": "10.4230/LIPIcs.ITCS.2020.44",
+        "CorpusId": 208138524
+      },
+      "url": "https://www.semanticscholar.org/paper/e165ad94127186e4c716d3b9f802b6e1e74c5374",
+      "title": "Top-down induction of decision trees: rigorous guarantees and inherent limitations",
+      "year": 2019,
+      "authors": [
+        {
+          "authorId": "38023684",
+          "name": "Guy Blanc"
+        },
+        {
+          "authorId": "2075388219",
+          "name": "Jane Lange"
+        },
+        {
+          "authorId": "145175555",
+          "name": "Li-Yang Tan"
+        }
+      ]
+    },
+    {
+      "paperId": "8f160ec8a6e71b04751a4bc3b9f2ae552111618b",
+      "externalIds": {
+        "MAG": "2982746696",
+        "DBLP": "journals/corr/abs-1911-00178",
+        "ArXiv": "1911.00178",
+        "CorpusId": 207780182
+      },
+      "url": "https://www.semanticscholar.org/paper/8f160ec8a6e71b04751a4bc3b9f2ae552111618b",
+      "title": "Kruskal-Katona for convex sets, with applications",
+      "year": 2019,
+      "authors": [
+        {
+          "authorId": "145202870",
+          "name": "Anindya De"
+        },
+        {
+          "authorId": "1729835",
+          "name": "R. Servedio"
+        }
+      ]
+    },
+    {
+      "paperId": "cd33fee7dcbb7914e5ca8cdfef2ad1bc3cedf265",
+      "externalIds": {
+        "MAG": "2952402601",
+        "DBLP": "journals/corr/abs-1811-03491",
+        "ArXiv": "1811.03491",
+        "DOI": "10.1145/3313276.3316301",
+        "CorpusId": 53213342
+      },
+      "url": "https://www.semanticscholar.org/paper/cd33fee7dcbb7914e5ca8cdfef2ad1bc3cedf265",
+      "title": "Degree-\ud835\udc51 chow parameters robustly determine degree-\ud835\udc51 PTFs (and algorithmic applications)",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "1808354",
+          "name": "Ilias Diakonikolas"
+        },
+        {
+          "authorId": "2452522",
+          "name": "D. Kane"
+        }
+      ]
+    },
+    {
+      "paperId": "b040cd8fead180cd6e72bd417730c126609421fc",
+      "externalIds": {
+        "MAG": "2757708033",
+        "DOI": "10.1007/S00440-017-0804-Y",
+        "CorpusId": 126174805
+      },
+      "url": "https://www.semanticscholar.org/paper/b040cd8fead180cd6e72bd417730c126609421fc",
+      "title": "A new central limit theorem and decomposition for Gaussian polynomials, with an application to deterministic approximate counting",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "145202870",
+          "name": "Anindya De"
+        },
+        {
+          "authorId": "1729835",
+          "name": "R. Servedio"
+        }
+      ]
+    },
+    {
+      "paperId": "8c28a1acaeeaf91d1c190daa14a479f2591d697a",
+      "externalIds": {
+        "MAG": "2883840497",
+        "DBLP": "journals/jlms/KwanST19",
+        "ArXiv": "1807.05202",
+        "DOI": "10.1112/jlms.12192",
+        "CorpusId": 54065186
+      },
+      "url": "https://www.semanticscholar.org/paper/8c28a1acaeeaf91d1c190daa14a479f2591d697a",
+      "title": "Anticoncentration for subgraph statistics",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "31012884",
+          "name": "Matthew Kwan"
+        },
+        {
+          "authorId": "1715847",
+          "name": "B. Sudakov"
+        },
+        {
+          "authorId": "145781629",
+          "name": "Tuan Tran"
+        }
+      ]
+    },
+    {
+      "paperId": "8fd09cea1f826aef129404cf4b967d176f8ab56b",
+      "externalIds": {
+        "ArXiv": "1903.11635",
+        "DBLP": "conf/latin/0001KKLS18",
+        "MAG": "2791818749",
+        "DOI": "10.1007/978-3-319-77404-6_21",
+        "CorpusId": 4713494
+      },
+      "url": "https://www.semanticscholar.org/paper/8fd09cea1f826aef129404cf4b967d176f8ab56b",
+      "title": "Fourier Entropy-Influence Conjecture for Random Linear Threshold Functions",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "145549138",
+          "name": "Sourav Chakraborty"
+        },
+        {
+          "authorId": "40641900",
+          "name": "Sushrut Karmalkar"
+        },
+        {
+          "authorId": "32372547",
+          "name": "Srijita Kundu"
+        },
+        {
+          "authorId": "1685076",
+          "name": "Satyanarayana V. Lokam"
+        },
+        {
+          "authorId": "2266685002",
+          "name": "Nitin Saurabh"
+        }
+      ]
+    },
+    {
+      "paperId": "a25d99e2128e22de1437ae2e392933ab1c583b52",
+      "externalIds": {
+        "MAG": "2779077750",
+        "DBLP": "conf/soda/Chapman18",
+        "ArXiv": "2108.02288",
+        "DOI": "10.1137/1.9781611975031.45",
+        "CorpusId": 32198082
+      },
+      "url": "https://www.semanticscholar.org/paper/a25d99e2128e22de1437ae2e392933ab1c583b52",
+      "title": "The Gotsman-Linial Conjecture is False",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "11329723",
+          "name": "Brynmor Chapman"
+        }
+      ]
+    },
+    {
+      "paperId": "411328914080e1c854c5ca7df4d1bc36b436886a",
+      "externalIds": {
+        "DOI": "10.1007/s00440-017-0804-y",
+        "CorpusId": 253982202
+      },
+      "url": "https://www.semanticscholar.org/paper/411328914080e1c854c5ca7df4d1bc36b436886a",
+      "title": "A new central limit theorem and decomposition for Gaussian polynomials, with an application to deterministic approximate counting",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "145202870",
+          "name": "Anindya De"
+        },
+        {
+          "authorId": "1729835",
+          "name": "R. Servedio"
+        }
+      ]
+    },
+    {
+      "paperId": "38e5efa18d338b383ba7c500a948c5727fc2eb47",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-1709-06650",
+        "ArXiv": "1709.06650",
+        "MAG": "2760785918",
+        "CorpusId": 11664865
+      },
+      "url": "https://www.semanticscholar.org/paper/38e5efa18d338b383ba7c500a948c5727fc2eb47",
+      "title": "On Graphs and the Gotsman-Linial Conjecture for d = 2",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "1455688017",
+          "name": "H. Kim"
+        },
+        {
+          "authorId": "50284763",
+          "name": "C. Maldonado"
+        },
+        {
+          "authorId": "143810767",
+          "name": "Jake L. Wellens"
+        }
+      ]
+    },
+    {
+      "paperId": "6438a857e6339d16a7c114dff84195d5d3c3d087",
+      "externalIds": {
+        "MAG": "2964067168",
+        "DBLP": "conf/stoc/DiakonikolasKS18a",
+        "ArXiv": "1707.01242",
+        "DOI": "10.1145/3188745.3188754",
+        "CorpusId": 4686520
+      },
+      "url": "https://www.semanticscholar.org/paper/6438a857e6339d16a7c114dff84195d5d3c3d087",
+      "title": "Learning geometric concepts with nasty noise",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "1808354",
+          "name": "Ilias Diakonikolas"
+        },
+        {
+          "authorId": "2452522",
+          "name": "D. Kane"
+        },
+        {
+          "authorId": "144369932",
+          "name": "Alistair Stewart"
+        }
+      ]
+    },
+    {
+      "paperId": "52961ff506248d42543f5d751e8563601484d2e7",
+      "externalIds": {
+        "MAG": "2605296320",
+        "DBLP": "conf/stoc/KabanetsKL17",
+        "DOI": "10.1145/3055399.3055470",
+        "CorpusId": 3258548
+      },
+      "url": "https://www.semanticscholar.org/paper/52961ff506248d42543f5d751e8563601484d2e7",
+      "title": "A polynomial restriction lemma with applications",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "2347317",
+          "name": "Valentine Kabanets"
+        },
+        {
+          "authorId": "2452522",
+          "name": "D. Kane"
+        },
+        {
+          "authorId": "9623297",
+          "name": "Zhenjian Lu"
+        }
+      ]
+    },
+    {
+      "paperId": "f6dc5ebaf3437c00c45202bba3b4d98bd44f2c09",
+      "externalIds": {
+        "MAG": "2614431701",
+        "DOI": "10.1214/16-AOP1097",
+        "CorpusId": 18298642
+      },
+      "url": "https://www.semanticscholar.org/paper/f6dc5ebaf3437c00c45202bba3b4d98bd44f2c09",
+      "title": "A structure theorem for poorly anticoncentrated polynomials of Gaussians and applications to the study of polynomial threshold functions",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "2452522",
+          "name": "D. Kane"
+        }
+      ]
+    },
+    {
+      "paperId": "f5dcf246b9fc5af13d611569a73547b6a526ba11",
+      "externalIds": {
+        "MAG": "2300906674",
+        "DBLP": "journals/corr/HeilmanV16",
+        "ArXiv": "1603.05620",
+        "CorpusId": 11665551
+      },
+      "url": "https://www.semanticscholar.org/paper/f5dcf246b9fc5af13d611569a73547b6a526ba11",
+      "title": "A Moment Majorization principle for random matrix ensembles with applications to hardness of the noncommutative Grothendieck problem",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "3152707",
+          "name": "Steven Heilman"
+        },
+        {
+          "authorId": "2794473",
+          "name": "T. Vidick"
+        }
+      ]
+    },
+    {
+      "paperId": "14f836ffa2ca8db50dc4983799ac91827eb980e5",
+      "externalIds": {
+        "MAG": "2228808402",
+        "DBLP": "journals/corr/Heilman15",
+        "ArXiv": "1511.00382",
+        "DOI": "10.1007/s10959-020-01031-y",
+        "CorpusId": 941413
+      },
+      "url": "https://www.semanticscholar.org/paper/14f836ffa2ca8db50dc4983799ac91827eb980e5",
+      "title": "Low Correlation Noise Stability of Symmetric Sets",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "3152707",
+          "name": "Steven Heilman"
+        }
+      ]
+    },
+    {
+      "paperId": "ef70f780d7c0609b02cbcb8338751e0f036bc66b",
+      "externalIds": {
+        "DBLP": "journals/toc/MekaNV16",
+        "MAG": "2963188610",
+        "ArXiv": "1507.00829",
+        "DOI": "10.4086/toc.2016.v012a011",
+        "CorpusId": 16251053
+      },
+      "url": "https://www.semanticscholar.org/paper/ef70f780d7c0609b02cbcb8338751e0f036bc66b",
+      "title": "Anti-concentration for Polynomials of Independent Random Variables",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "1751621",
+          "name": "Raghu Meka"
+        },
+        {
+          "authorId": "143735262",
+          "name": "Oanh Nguyen"
+        },
+        {
+          "authorId": "1762760",
+          "name": "V. Vu"
+        }
+      ]
+    },
+    {
+      "paperId": "6b3b87eeb950a89f188df54ba8e6838a81f1e65d",
+      "externalIds": {
+        "MAG": "2793111066",
+        "CorpusId": 50263749
+      },
+      "url": "https://www.semanticscholar.org/paper/6b3b87eeb950a89f188df54ba8e6838a81f1e65d",
+      "title": "Anti-concentration for polynomials of Rademacher random variables and applications in complexity theory",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "1751621",
+          "name": "Raghu Meka"
+        },
+        {
+          "authorId": "143735262",
+          "name": "Oanh Nguyen"
+        },
+        {
+          "authorId": "1762760",
+          "name": "V. Vu"
+        }
+      ]
+    },
+    {
+      "paperId": "4d30671b9308181bd15f9481a98bb1717f6cec6a",
+      "externalIds": {
+        "DBLP": "journals/corr/MooreR14",
+        "ArXiv": "1408.5425",
+        "MAG": "1794403125",
+        "CorpusId": 10316658
+      },
+      "url": "https://www.semanticscholar.org/paper/4d30671b9308181bd15f9481a98bb1717f6cec6a",
+      "title": "Heat and Noise on Cubes and Spheres: The Sensitivity of Randomly Rotated Polynomial Threshold Functions",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "144869677",
+          "name": "Cristopher Moore"
+        },
+        {
+          "authorId": "143859610",
+          "name": "A. Russell"
+        }
+      ]
+    },
+    {
+      "paperId": "35d389ffec0eea9fb523350d49fba1ef622ff297",
+      "externalIds": {
+        "ArXiv": "1407.7763",
+        "MAG": "1805129013",
+        "DBLP": "journals/corr/ODonnell14",
+        "CorpusId": 10019773
+      },
+      "url": "https://www.semanticscholar.org/paper/35d389ffec0eea9fb523350d49fba1ef622ff297",
+      "title": "Social choice, computational complexity, Gaussian geometry, and Boolean functions",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "1410077373",
+          "name": "R. O'Donnell"
+        }
+      ]
+    },
+    {
+      "paperId": "535ddeb5ec51a38f367e47d24786e832e4a904b0",
+      "externalIds": {
+        "ArXiv": "2105.10386",
+        "MAG": "1891181203",
+        "DBLP": "journals/corr/abs-2105-10386",
+        "DOI": "10.1017/CBO9781139814782.013",
+        "CorpusId": 32527071
+      },
+      "url": "https://www.semanticscholar.org/paper/535ddeb5ec51a38f367e47d24786e832e4a904b0",
+      "title": "Analysis of Boolean Functions",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "1410077373",
+          "name": "R. O'Donnell"
+        }
+      ]
+    },
+    {
+      "paperId": "a444f47380d8518439a675d3323200fd63f6e603",
+      "externalIds": {
+        "DBLP": "conf/coco/DeDS14",
+        "MAG": "2950440990",
+        "ArXiv": "1311.7115",
+        "DOI": "10.1109/CCC.2014.31",
+        "CorpusId": 98782
+      },
+      "url": "https://www.semanticscholar.org/paper/a444f47380d8518439a675d3323200fd63f6e603",
+      "title": "Deterministic Approximate Counting for Juntas of Degree-2 Polynomial Threshold Functions",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "145202870",
+          "name": "Anindya De"
+        },
+        {
+          "authorId": "1808354",
+          "name": "Ilias Diakonikolas"
+        },
+        {
+          "authorId": "1729835",
+          "name": "R. Servedio"
+        }
+      ]
+    },
+    {
+      "paperId": "e8a2528cf5a9ec8c5a93c2cb51048345d01fdd49",
+      "externalIds": {
+        "MAG": "2170631996",
+        "DBLP": "conf/stoc/DeS14",
+        "ArXiv": "1311.7178",
+        "DOI": "10.1145/2591796.2591800",
+        "CorpusId": 6049143
+      },
+      "url": "https://www.semanticscholar.org/paper/e8a2528cf5a9ec8c5a93c2cb51048345d01fdd49",
+      "title": "Efficient deterministic approximate counting for low-degree polynomial threshold functions",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "35465854",
+          "name": "Anindya De"
+        },
+        {
+          "authorId": "2257177368",
+          "name": "Rocco A. Servedio"
+        }
+      ]
+    },
+    {
+      "paperId": "00b70b18490e2e5a3df0718b948bb35e761c0cc6",
+      "externalIds": {
+        "MAG": "2568004999",
+        "ArXiv": "1309.2987",
+        "DBLP": "conf/stoc/Kane14",
+        "DOI": "10.1145/2591796.2591798",
+        "CorpusId": 2195050
+      },
+      "url": "https://www.semanticscholar.org/paper/00b70b18490e2e5a3df0718b948bb35e761c0cc6",
+      "title": "The average sensitivity of an intersection of half spaces",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "2452522",
+          "name": "D. Kane"
+        }
+      ]
+    },
+    {
+      "paperId": "07c19e9d5866a5c683da8df25946d2dbbc84a2a4",
+      "externalIds": {
+        "DBLP": "journals/eccc/DeDS13a",
+        "MAG": "2962711677",
+        "ArXiv": "1311.7105",
+        "DOI": "10.14288/1.0043373",
+        "CorpusId": 12960038
+      },
+      "url": "https://www.semanticscholar.org/paper/07c19e9d5866a5c683da8df25946d2dbbc84a2a4",
+      "title": "Deterministic Approximate Counting for Degree-2 Polynomial Threshold Functions",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "145202870",
+          "name": "Anindya De"
+        },
+        {
+          "authorId": "1808354",
+          "name": "Ilias Diakonikolas"
+        },
+        {
+          "authorId": "1729835",
+          "name": "R. Servedio"
+        }
+      ]
+    },
+    {
+      "paperId": "eda5088b9cfb589878a14cab35a7efddc1609ba1",
+      "externalIds": {
+        "CorpusId": 259342957
+      },
+      "url": "https://www.semanticscholar.org/paper/eda5088b9cfb589878a14cab35a7efddc1609ba1",
+      "title": "Computational Learning Theory & Fourier Analysis",
+      "year": 2022,
+      "authors": [
+        {
+          "authorId": "2067687711",
+          "name": "Alan Chang"
+        }
+      ]
+    },
+    {
+      "paperId": "80d919d8b3cc75074b294fd2924bf39001593ade",
+      "externalIds": {
+        "CorpusId": 248912580
+      },
+      "url": "https://www.semanticscholar.org/paper/80d919d8b3cc75074b294fd2924bf39001593ade",
+      "title": "THE ANNALS of PROBABILITY",
+      "year": 2022,
+      "authors": [
+        {
+          "authorId": "2052500123",
+          "name": "Wei"
+        },
+        {
+          "authorId": "93833759",
+          "name": "K. Chenb"
+        }
+      ]
+    },
+    {
+      "paperId": "6898f66d32d49b8f7ba53fa454650ee363934d6f",
+      "externalIds": {
+        "DBLP": "conf/approx/ServedioT21",
+        "DOI": "10.4230/LIPIcs.APPROX/RANDOM.2021.37",
+        "CorpusId": 237521542
+      },
+      "url": "https://www.semanticscholar.org/paper/6898f66d32d49b8f7ba53fa454650ee363934d6f",
+      "title": "Deterministic Approximate Counting of Polynomial Threshold Functions via a Derandomized Regularity Lemma",
+      "year": 2021,
+      "authors": [
+        {
+          "authorId": "1729835",
+          "name": "R. Servedio"
+        },
+        {
+          "authorId": "145175555",
+          "name": "Li-Yang Tan"
+        }
+      ]
+    },
+    {
+      "paperId": "1ce2f6716b0ec72068f1a918b45aa96d156f1ccc",
+      "externalIds": {
+        "CorpusId": 202664041
+      },
+      "url": "https://www.semanticscholar.org/paper/1ce2f6716b0ec72068f1a918b45aa96d156f1ccc",
+      "title": "C O ] 2 7 O ct 2 01 8 Anticoncentration for subgraph statistics",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "31012884",
+          "name": "Matthew Kwan"
+        },
+        {
+          "authorId": "1715847",
+          "name": "B. Sudakov"
+        },
+        {
+          "authorId": "145781629",
+          "name": "Tuan Tran"
+        }
+      ]
+    },
+    {
+      "paperId": "de14a4f2371259836c2513c2564e34f7b6d0fbaf",
+      "externalIds": {
+        "MAG": "2773065828",
+        "DBLP": "conf/innovations/ServedioT17",
+        "DOI": "10.4230/LIPIcs.ITCS.2017.30",
+        "CorpusId": 18318544
+      },
+      "url": "https://www.semanticscholar.org/paper/de14a4f2371259836c2513c2564e34f7b6d0fbaf",
+      "title": "What Circuit Classes Can Be Learned with Non-Trivial Savings?",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "1729835",
+          "name": "R. Servedio"
+        },
+        {
+          "authorId": "145175555",
+          "name": "Li-Yang Tan"
+        }
+      ]
+    },
+    {
+      "paperId": "b1676411a7b9dc19ba67216e0d8a0c0a2bfca7d9",
+      "externalIds": {
+        "MAG": "2762600155",
+        "DOI": "10.1007/978-3-319-44479-6_32",
+        "CorpusId": 126010988
+      },
+      "url": "https://www.semanticscholar.org/paper/b1676411a7b9dc19ba67216e0d8a0c0a2bfca7d9",
+      "title": "Anti-concentration Inequalities for Polynomials",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "1762760",
+          "name": "V. Vu"
+        }
+      ]
+    },
+    {
+      "paperId": "ae3458ca9a4abd8918e3eff49bce78a60a0edb51",
+      "externalIds": {
+        "MAG": "156789057",
+        "DOI": "10.1007/springerreference_57714",
+        "CorpusId": 118916017
+      },
+      "url": "https://www.semanticscholar.org/paper/ae3458ca9a4abd8918e3eff49bce78a60a0edb51",
+      "title": "Learning Constant-Depth Circuits (1993; Linial, Mansour, Nisan).",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "1729835",
+          "name": "R. Servedio"
+        }
+      ]
+    },
+    {
+      "paperId": "552275f02c8e55d821df3ec56867adf2e2ebf4ef",
+      "externalIds": {
+        "MAG": "2181445345",
+        "CorpusId": 16765306
+      },
+      "url": "https://www.semanticscholar.org/paper/552275f02c8e55d821df3ec56867adf2e2ebf4ef",
+      "title": "Real Analysis in Computer Science: A collection of Open Problems",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "2363320",
+          "name": "Yuval Filmus"
+        },
+        {
+          "authorId": "2088877",
+          "name": "Hamed Hatami"
+        },
+        {
+          "authorId": "3152707",
+          "name": "Steven Heilman"
+        },
+        {
+          "authorId": "1688109",
+          "name": "Elchanan Mossel"
+        },
+        {
+          "authorId": "2274555",
+          "name": "Sushant Sachdeva"
+        },
+        {
+          "authorId": "1790382",
+          "name": "Andrew Wan"
+        },
+        {
+          "authorId": "152842533",
+          "name": "K. Wimmer"
+        }
+      ]
+    }
+  ],
+  "scope": "Bibliographic metadata only; no abstracts or full text."
+}

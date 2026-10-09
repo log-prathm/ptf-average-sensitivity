@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: Please cite the manuscript and the original OpenAI weighted-grading argument
+  when using this refinement.
+type: software
+title: An elementary improvement of the average sensitivity bound for polynomial threshold
+  functions
+version: 1.0.0
+license: Apache-2.0
+authors:
+- given-names: Prathmesh
+  family-names: Lagdive
+  affiliation: M. S. Bidve Engineering College, Latur
+  orcid: https://orcid.org/0009-0000-1080-1950
+- given-names: Vaibhav
+  family-names: Aglave
+  affiliation: M. S. Bidve Engineering College, Latur
+  orcid: https://orcid.org/0009-0001-2604-4293
+- given-names: Suraj
+  family-names: Damre
+  affiliation: M. S. Bidve Engineering College, Latur
+  orcid: https://orcid.org/0009-0002-7542-3086
+abstract: We refine the weighted Fourier-grading argument of OpenAI for average sensitivity
+  on the uniform Boolean cube. For every degree-d polynomial threshold function in
+  n variables, the note derives AS(f) <= 3.83 d sqrt(n), improving the coefficient
+  8 in that argument. The proof is uniform in dimension and degree and uses the positive
+  sign convention at zero.
+keywords:
+- polynomial threshold functions
+- average sensitivity
+- Boolean functions
+- coupling
+- Gotsman-Linial conjecture
+preferred-citation:
+  type: article
+  title: An elementary improvement of the average sensitivity bound for polynomial
+    threshold functions
+  year: 2026
+  authors:
+  - given-names: Prathmesh
+    family-names: Lagdive
+    affiliation: M. S. Bidve Engineering College, Latur
+    orcid: https://orcid.org/0009-0000-1080-1950
+  - given-names: Vaibhav
+    family-names: Aglave
+    affiliation: M. S. Bidve Engineering College, Latur
+    orcid: https://orcid.org/0009-0001-2604-4293
+  - given-names: Suraj
+    family-names: Damre
+    affiliation: M. S. Bidve Engineering College, Latur
+    orcid: https://orcid.org/0009-0002-7542-3086
+  doi: 10.5281/zenodo.23269472
+  url: https://zenodo.org/records/23269472
+  date-published: '2026-10-09'
+  publisher:
+    name: Zenodo
+repository-code: https://github.com/log-prathm/ptf-average-sensitivity-3-83
+date-released: '2026-10-10'

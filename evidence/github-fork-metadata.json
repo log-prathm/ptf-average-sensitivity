@@ -1,0 +1,1519 @@
+{
+  "upstream_forks_count": 1379,
+  "sampled_unique_forks": 189,
+  "upstream_pushed_at": "2026-10-08T05:20:00Z",
+  "forks": [
+    {
+      "full_name": "2404589803/math",
+      "html_url": "https://github.com/2404589803/math",
+      "created_at": "2026-10-08T20:40:25Z",
+      "pushed_at": "2026-10-08T21:34:03Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "AimeeKeel/math",
+      "html_url": "https://github.com/AimeeKeel/math",
+      "created_at": "2026-10-09T07:25:16Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Amartya989870xxxx/math",
+      "html_url": "https://github.com/Amartya989870xxxx/math",
+      "created_at": "2026-10-06T23:14:35Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "AndreSlavescu/math",
+      "html_url": "https://github.com/AndreSlavescu/math",
+      "created_at": "2026-10-06T23:35:26Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "ArlinChen/AI-math",
+      "html_url": "https://github.com/ArlinChen/AI-math",
+      "created_at": "2026-10-09T08:05:48Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Avolyn/math",
+      "html_url": "https://github.com/Avolyn/math",
+      "created_at": "2026-10-09T03:19:15Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "BD-Danielle/math",
+      "html_url": "https://github.com/BD-Danielle/math",
+      "created_at": "2026-10-09T10:59:43Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "BambiTP/openaimath",
+      "html_url": "https://github.com/BambiTP/openaimath",
+      "created_at": "2026-10-09T10:02:45Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Betty0422-LIU/math",
+      "html_url": "https://github.com/Betty0422-LIU/math",
+      "created_at": "2026-10-09T11:42:26Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "BruceLeo5412/math",
+      "html_url": "https://github.com/BruceLeo5412/math",
+      "created_at": "2026-10-09T03:48:30Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "CharlesXmf/math",
+      "html_url": "https://github.com/CharlesXmf/math",
+      "created_at": "2026-10-08T02:35:03Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Chihvane/math",
+      "html_url": "https://github.com/Chihvane/math",
+      "created_at": "2026-10-09T10:40:14Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "ChrisW09/math",
+      "html_url": "https://github.com/ChrisW09/math",
+      "created_at": "2026-10-09T16:45:37Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Chronillogical-Potato/math",
+      "html_url": "https://github.com/Chronillogical-Potato/math",
+      "created_at": "2026-10-07T11:24:49Z",
+      "pushed_at": "2026-10-09T14:53:29Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "CodeWith-PeterBull/math",
+      "html_url": "https://github.com/CodeWith-PeterBull/math",
+      "created_at": "2026-10-07T09:44:58Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Danilo-Araujo-Silva/math",
+      "html_url": "https://github.com/Danilo-Araujo-Silva/math",
+      "created_at": "2026-10-09T13:58:16Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Deicyde/math",
+      "html_url": "https://github.com/Deicyde/math",
+      "created_at": "2026-10-09T08:43:46Z",
+      "pushed_at": "2026-10-09T11:10:43Z",
+      "stargazers_count": 3,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "DeliangZhong/math",
+      "html_url": "https://github.com/DeliangZhong/math",
+      "created_at": "2026-10-07T12:02:57Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Dragonzzzzz/math",
+      "html_url": "https://github.com/Dragonzzzzz/math",
+      "created_at": "2026-10-07T00:19:27Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "EnderzFury/math",
+      "html_url": "https://github.com/EnderzFury/math",
+      "created_at": "2026-10-09T15:08:35Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "EricMegalovania/openai-math",
+      "html_url": "https://github.com/EricMegalovania/openai-math",
+      "created_at": "2026-10-07T05:55:47Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "ErisonChen/math",
+      "html_url": "https://github.com/ErisonChen/math",
+      "created_at": "2026-10-09T13:59:24Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Gruschwick/math",
+      "html_url": "https://github.com/Gruschwick/math",
+      "created_at": "2026-10-08T18:18:08Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "HannibalFX/Research",
+      "html_url": "https://github.com/HannibalFX/Research",
+      "created_at": "2026-10-07T15:44:31Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "HanyingZheng/fork--openai-math",
+      "html_url": "https://github.com/HanyingZheng/fork--openai-math",
+      "created_at": "2026-10-08T04:20:10Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Hanziwww/math",
+      "html_url": "https://github.com/Hanziwww/math",
+      "created_at": "2026-10-07T00:56:43Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "HarryDean2010/OpenAI-math",
+      "html_url": "https://github.com/HarryDean2010/OpenAI-math",
+      "created_at": "2026-10-09T13:28:49Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "JunaedIrfan/math",
+      "html_url": "https://github.com/JunaedIrfan/math",
+      "created_at": "2026-10-07T03:47:12Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "JuneTuan/math",
+      "html_url": "https://github.com/JuneTuan/math",
+      "created_at": "2026-10-09T11:25:12Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "JustinHedge/math",
+      "html_url": "https://github.com/JustinHedge/math",
+      "created_at": "2026-10-07T06:59:26Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "KGEmmanuel/math",
+      "html_url": "https://github.com/KGEmmanuel/math",
+      "created_at": "2026-10-09T03:26:57Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Kano-Gooop/math",
+      "html_url": "https://github.com/Kano-Gooop/math",
+      "created_at": "2026-10-07T05:46:24Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Kevin2599/math_openai",
+      "html_url": "https://github.com/Kevin2599/math_openai",
+      "created_at": "2026-10-09T07:25:38Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Kong-Ziyu/math",
+      "html_url": "https://github.com/Kong-Ziyu/math",
+      "created_at": "2026-10-07T21:03:17Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Lawliet-git/math",
+      "html_url": "https://github.com/Lawliet-git/math",
+      "created_at": "2026-10-09T11:45:31Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "LeonY34/openai-math",
+      "html_url": "https://github.com/LeonY34/openai-math",
+      "created_at": "2026-10-08T09:31:26Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Lqlsoftware/math",
+      "html_url": "https://github.com/Lqlsoftware/math",
+      "created_at": "2026-10-07T02:11:10Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Luftschloss/math",
+      "html_url": "https://github.com/Luftschloss/math",
+      "created_at": "2026-10-09T03:16:27Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "MAPzhidongLin/math",
+      "html_url": "https://github.com/MAPzhidongLin/math",
+      "created_at": "2026-10-09T11:49:31Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "MaginaDai/math",
+      "html_url": "https://github.com/MaginaDai/math",
+      "created_at": "2026-10-09T03:45:54Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "MarkMechE/math",
+      "html_url": "https://github.com/MarkMechE/math",
+      "created_at": "2026-10-09T08:17:47Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "MichaelMitchellM/math",
+      "html_url": "https://github.com/MichaelMitchellM/math",
+      "created_at": "2026-10-09T05:44:18Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Mizuki-Chou/math",
+      "html_url": "https://github.com/Mizuki-Chou/math",
+      "created_at": "2026-10-09T13:15:30Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Morditux/math",
+      "html_url": "https://github.com/Morditux/math",
+      "created_at": "2026-10-09T10:00:45Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "NestY73/math",
+      "html_url": "https://github.com/NestY73/math",
+      "created_at": "2026-10-08T14:21:10Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Niviria-Murphy/math",
+      "html_url": "https://github.com/Niviria-Murphy/math",
+      "created_at": "2026-10-09T07:39:02Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Peter-Schneider/math",
+      "html_url": "https://github.com/Peter-Schneider/math",
+      "created_at": "2026-10-09T05:32:24Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Py14aK/math",
+      "html_url": "https://github.com/Py14aK/math",
+      "created_at": "2026-10-07T20:49:33Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "RouZuoMong2003/math",
+      "html_url": "https://github.com/RouZuoMong2003/math",
+      "created_at": "2026-10-07T03:30:42Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Saad-Selim/math",
+      "html_url": "https://github.com/Saad-Selim/math",
+      "created_at": "2026-10-06T23:17:30Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "SachaEmmanuelTorres/math",
+      "html_url": "https://github.com/SachaEmmanuelTorres/math",
+      "created_at": "2026-10-09T10:59:18Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Sammyowase/math",
+      "html_url": "https://github.com/Sammyowase/math",
+      "created_at": "2026-10-08T08:08:50Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "SeCuReDmE-main-dev/math_bulllchit_casestudy",
+      "html_url": "https://github.com/SeCuReDmE-main-dev/math_bulllchit_casestudy",
+      "created_at": "2026-10-07T12:38:54Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "SourceEnterprise/OpenAI-math",
+      "html_url": "https://github.com/SourceEnterprise/OpenAI-math",
+      "created_at": "2026-10-07T18:19:14Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Stars1233/math-",
+      "html_url": "https://github.com/Stars1233/math-",
+      "created_at": "2026-10-08T16:02:28Z",
+      "pushed_at": "2026-10-08T16:03:40Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "TechnologyStar/math",
+      "html_url": "https://github.com/TechnologyStar/math",
+      "created_at": "2026-10-07T04:15:24Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "TheBeems/math",
+      "html_url": "https://github.com/TheBeems/math",
+      "created_at": "2026-10-09T11:23:54Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "UMARU486/math",
+      "html_url": "https://github.com/UMARU486/math",
+      "created_at": "2026-10-07T08:37:59Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "VladimirReshetnikov/math",
+      "html_url": "https://github.com/VladimirReshetnikov/math",
+      "created_at": "2026-10-06T23:32:00Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "WJsjtu/openai-math",
+      "html_url": "https://github.com/WJsjtu/openai-math",
+      "created_at": "2026-10-09T06:48:02Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "WebDeveloper0315/math",
+      "html_url": "https://github.com/WebDeveloper0315/math",
+      "created_at": "2026-10-09T04:27:20Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Westbound006/math",
+      "html_url": "https://github.com/Westbound006/math",
+      "created_at": "2026-10-07T11:21:38Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "Xxpore/math",
+      "html_url": "https://github.com/Xxpore/math",
+      "created_at": "2026-10-09T13:09:33Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "akashlevy/math",
+      "html_url": "https://github.com/akashlevy/math",
+      "created_at": "2026-10-09T09:29:11Z",
+      "pushed_at": "2026-10-09T16:30:15Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "albertgarden/math",
+      "html_url": "https://github.com/albertgarden/math",
+      "created_at": "2026-10-08T06:41:35Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "alexsheng348/math",
+      "html_url": "https://github.com/alexsheng348/math",
+      "created_at": "2026-10-09T03:43:58Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "alisalehics-debug/math",
+      "html_url": "https://github.com/alisalehics-debug/math",
+      "created_at": "2026-10-08T05:24:47Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "arthurcolle/openai-math",
+      "html_url": "https://github.com/arthurcolle/openai-math",
+      "created_at": "2026-10-06T22:41:41Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "bebetterest/math",
+      "html_url": "https://github.com/bebetterest/math",
+      "created_at": "2026-10-09T16:38:44Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "benwaldner/math",
+      "html_url": "https://github.com/benwaldner/math",
+      "created_at": "2026-10-07T01:52:53Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "berryp23/math",
+      "html_url": "https://github.com/berryp23/math",
+      "created_at": "2026-10-09T17:17:27Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "bgrubbs1/math",
+      "html_url": "https://github.com/bgrubbs1/math",
+      "created_at": "2026-10-09T03:12:48Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "borism/openai-math-slop",
+      "html_url": "https://github.com/borism/openai-math-slop",
+      "created_at": "2026-10-08T11:20:08Z",
+      "pushed_at": "2026-10-08T18:20:33Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "brenobbbenicio-blip/math",
+      "html_url": "https://github.com/brenobbbenicio-blip/math",
+      "created_at": "2026-10-06T22:41:32Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "canglongzhizhu/math",
+      "html_url": "https://github.com/canglongzhizhu/math",
+      "created_at": "2026-10-09T08:34:08Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "castor-XinYang/OpenAIMath722Papers",
+      "html_url": "https://github.com/castor-XinYang/OpenAIMath722Papers",
+      "created_at": "2026-10-09T11:58:09Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "chenmingyi1/math",
+      "html_url": "https://github.com/chenmingyi1/math",
+      "created_at": "2026-10-09T08:12:32Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "christiang7/openai-math",
+      "html_url": "https://github.com/christiang7/openai-math",
+      "created_at": "2026-10-07T15:57:10Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "christopherwoodall/math",
+      "html_url": "https://github.com/christopherwoodall/math",
+      "created_at": "2026-10-06T22:39:22Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "cleardry/math",
+      "html_url": "https://github.com/cleardry/math",
+      "created_at": "2026-10-07T00:10:02Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "codesigner/math",
+      "html_url": "https://github.com/codesigner/math",
+      "created_at": "2026-10-09T08:43:14Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "cryopie/openai-math",
+      "html_url": "https://github.com/cryopie/openai-math",
+      "created_at": "2026-10-09T03:41:32Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "davidwpace/math",
+      "html_url": "https://github.com/davidwpace/math",
+      "created_at": "2026-10-07T22:40:10Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "deterrence-ng/math",
+      "html_url": "https://github.com/deterrence-ng/math",
+      "created_at": "2026-10-07T22:17:37Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "devXyi/math",
+      "html_url": "https://github.com/devXyi/math",
+      "created_at": "2026-10-09T15:02:34Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "dfyuan/math",
+      "html_url": "https://github.com/dfyuan/math",
+      "created_at": "2026-10-08T07:01:34Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "dmn001/math",
+      "html_url": "https://github.com/dmn001/math",
+      "created_at": "2026-10-07T23:45:27Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "dshushin/math",
+      "html_url": "https://github.com/dshushin/math",
+      "created_at": "2026-10-07T15:38:07Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "dsugurtuna/math",
+      "html_url": "https://github.com/dsugurtuna/math",
+      "created_at": "2026-10-06T23:25:55Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "ductranhuylund/math",
+      "html_url": "https://github.com/ductranhuylund/math",
+      "created_at": "2026-10-07T08:00:26Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "dxwmls/math",
+      "html_url": "https://github.com/dxwmls/math",
+      "created_at": "2026-10-09T06:22:00Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "elthon/math",
+      "html_url": "https://github.com/elthon/math",
+      "created_at": "2026-10-09T12:59:54Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "encodedfox/math",
+      "html_url": "https://github.com/encodedfox/math",
+      "created_at": "2026-10-07T02:53:14Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "eriknelson/oai-math",
+      "html_url": "https://github.com/eriknelson/oai-math",
+      "created_at": "2026-10-08T12:11:57Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "exqs/math",
+      "html_url": "https://github.com/exqs/math",
+      "created_at": "2026-10-09T10:52:19Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "fedor-gerasimov-50/opanai-math-repo",
+      "html_url": "https://github.com/fedor-gerasimov-50/opanai-math-repo",
+      "created_at": "2026-10-07T02:30:50Z",
+      "pushed_at": "2026-10-08T20:29:18Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "ferr079/math-0AI",
+      "html_url": "https://github.com/ferr079/math-0AI",
+      "created_at": "2026-10-09T12:29:03Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "firedfary/math",
+      "html_url": "https://github.com/firedfary/math",
+      "created_at": "2026-10-09T05:41:12Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "fschell/math",
+      "html_url": "https://github.com/fschell/math",
+      "created_at": "2026-10-09T06:56:09Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "ganzuul/math-discussion",
+      "html_url": "https://github.com/ganzuul/math-discussion",
+      "created_at": "2026-10-07T06:30:58Z",
+      "pushed_at": "2026-10-07T06:40:48Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "geek-987/math",
+      "html_url": "https://github.com/geek-987/math",
+      "created_at": "2026-10-09T16:48:56Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "glance846/math",
+      "html_url": "https://github.com/glance846/math",
+      "created_at": "2026-10-07T00:20:05Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "gnought/math",
+      "html_url": "https://github.com/gnought/math",
+      "created_at": "2026-10-09T07:56:47Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "grwtsk/openai-math",
+      "html_url": "https://github.com/grwtsk/openai-math",
+      "created_at": "2026-10-09T05:22:30Z",
+      "pushed_at": "2026-10-09T17:14:02Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "habbylabby737/math",
+      "html_url": "https://github.com/habbylabby737/math",
+      "created_at": "2026-10-07T04:49:40Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "hoang-ama/math",
+      "html_url": "https://github.com/hoang-ama/math",
+      "created_at": "2026-10-09T02:08:18Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "holylong/math",
+      "html_url": "https://github.com/holylong/math",
+      "created_at": "2026-10-09T01:00:38Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "iaspdm10134-ux/math",
+      "html_url": "https://github.com/iaspdm10134-ux/math",
+      "created_at": "2026-10-09T12:38:04Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "isaksmith/math",
+      "html_url": "https://github.com/isaksmith/math",
+      "created_at": "2026-10-06T23:40:09Z",
+      "pushed_at": "2026-10-07T00:49:43Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "izayoi-ami/math",
+      "html_url": "https://github.com/izayoi-ami/math",
+      "created_at": "2026-10-07T06:37:18Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "janallanque/math",
+      "html_url": "https://github.com/janallanque/math",
+      "created_at": "2026-10-09T16:25:30Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "jeff-2026/math",
+      "html_url": "https://github.com/jeff-2026/math",
+      "created_at": "2026-10-09T10:47:26Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "jin1994xiul/math",
+      "html_url": "https://github.com/jin1994xiul/math",
+      "created_at": "2026-10-09T06:11:41Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "katume-eng/math_from_openai",
+      "html_url": "https://github.com/katume-eng/math_from_openai",
+      "created_at": "2026-10-08T10:57:18Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "kel1y/math",
+      "html_url": "https://github.com/kel1y/math",
+      "created_at": "2026-10-09T05:55:12Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "kerikh/math",
+      "html_url": "https://github.com/kerikh/math",
+      "created_at": "2026-10-09T09:28:59Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "kotique123/openai-math",
+      "html_url": "https://github.com/kotique123/openai-math",
+      "created_at": "2026-10-08T03:03:39Z",
+      "pushed_at": "2026-10-08T15:38:22Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "lamardealmaker/math",
+      "html_url": "https://github.com/lamardealmaker/math",
+      "created_at": "2026-10-07T03:47:01Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "lanchongyizu/math",
+      "html_url": "https://github.com/lanchongyizu/math",
+      "created_at": "2026-10-09T05:05:03Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "leichen2552/openai_math",
+      "html_url": "https://github.com/leichen2552/openai_math",
+      "created_at": "2026-10-08T08:38:58Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "lindadamama/math",
+      "html_url": "https://github.com/lindadamama/math",
+      "created_at": "2026-10-09T04:13:39Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "lite/math",
+      "html_url": "https://github.com/lite/math",
+      "created_at": "2026-10-09T15:18:53Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "liyangzmx/openai-math",
+      "html_url": "https://github.com/liyangzmx/openai-math",
+      "created_at": "2026-10-08T00:40:59Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "longwarriors/math",
+      "html_url": "https://github.com/longwarriors/math",
+      "created_at": "2026-10-08T05:34:26Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "lordwilsonDev/math",
+      "html_url": "https://github.com/lordwilsonDev/math",
+      "created_at": "2026-10-07T20:34:33Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "lywcoder/math",
+      "html_url": "https://github.com/lywcoder/math",
+      "created_at": "2026-10-09T09:11:01Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "massimo-nocentini/openai-math",
+      "html_url": "https://github.com/massimo-nocentini/openai-math",
+      "created_at": "2026-10-09T13:22:45Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "maxdzin/math",
+      "html_url": "https://github.com/maxdzin/math",
+      "created_at": "2026-10-09T12:08:57Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "mayukhpsm/math",
+      "html_url": "https://github.com/mayukhpsm/math",
+      "created_at": "2026-10-08T10:56:24Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "mekou1/math",
+      "html_url": "https://github.com/mekou1/math",
+      "created_at": "2026-10-09T12:01:15Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "mindhand/math",
+      "html_url": "https://github.com/mindhand/math",
+      "created_at": "2026-10-09T13:19:56Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "mohdshamii/math",
+      "html_url": "https://github.com/mohdshamii/math",
+      "created_at": "2026-10-07T01:29:34Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "molodiuc/math",
+      "html_url": "https://github.com/molodiuc/math",
+      "created_at": "2026-10-09T11:01:27Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "mrsirquanzo/math",
+      "html_url": "https://github.com/mrsirquanzo/math",
+      "created_at": "2026-10-09T12:41:38Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "myzhlw/math",
+      "html_url": "https://github.com/myzhlw/math",
+      "created_at": "2026-10-09T10:26:53Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "nf807942/math",
+      "html_url": "https://github.com/nf807942/math",
+      "created_at": "2026-10-07T00:16:32Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "nfguide/oai-math",
+      "html_url": "https://github.com/nfguide/oai-math",
+      "created_at": "2026-10-09T17:19:12Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "nickedfrc/math",
+      "html_url": "https://github.com/nickedfrc/math",
+      "created_at": "2026-10-09T04:13:40Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "ninn-kou/math",
+      "html_url": "https://github.com/ninn-kou/math",
+      "created_at": "2026-10-07T05:00:08Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "nkwesi/math",
+      "html_url": "https://github.com/nkwesi/math",
+      "created_at": "2026-10-08T19:58:43Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "nsashi/math",
+      "html_url": "https://github.com/nsashi/math",
+      "created_at": "2026-10-09T08:36:47Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "pabsts/openai-math",
+      "html_url": "https://github.com/pabsts/openai-math",
+      "created_at": "2026-10-09T11:19:57Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "paperu8/math",
+      "html_url": "https://github.com/paperu8/math",
+      "created_at": "2026-10-09T14:06:24Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "pasterpo/math",
+      "html_url": "https://github.com/pasterpo/math",
+      "created_at": "2026-10-07T11:23:50Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "pejmanshojam31/math",
+      "html_url": "https://github.com/pejmanshojam31/math",
+      "created_at": "2026-10-09T09:43:14Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "pellera9/math",
+      "html_url": "https://github.com/pellera9/math",
+      "created_at": "2026-10-07T02:39:33Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "phunghx/math-openai",
+      "html_url": "https://github.com/phunghx/math-openai",
+      "created_at": "2026-10-09T11:51:54Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "pktikkani/openai-math-dump",
+      "html_url": "https://github.com/pktikkani/openai-math-dump",
+      "created_at": "2026-10-09T03:53:53Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "pm5k/math",
+      "html_url": "https://github.com/pm5k/math",
+      "created_at": "2026-10-07T07:29:58Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "prabhasdubbakaa/math2",
+      "html_url": "https://github.com/prabhasdubbakaa/math2",
+      "created_at": "2026-10-08T15:28:56Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "pystander/math",
+      "html_url": "https://github.com/pystander/math",
+      "created_at": "2026-10-09T16:01:59Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "pzk3/math",
+      "html_url": "https://github.com/pzk3/math",
+      "created_at": "2026-10-07T12:52:48Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "quantumjocelyne/math",
+      "html_url": "https://github.com/quantumjocelyne/math",
+      "created_at": "2026-10-07T20:40:52Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "rimless/math",
+      "html_url": "https://github.com/rimless/math",
+      "created_at": "2026-10-07T08:11:35Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "rmonhem/math",
+      "html_url": "https://github.com/rmonhem/math",
+      "created_at": "2026-10-07T15:45:04Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "rocksolid911/math",
+      "html_url": "https://github.com/rocksolid911/math",
+      "created_at": "2026-10-07T08:56:52Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "sai-lalith/math",
+      "html_url": "https://github.com/sai-lalith/math",
+      "created_at": "2026-10-07T07:19:02Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "sandeepkunkunuru/math",
+      "html_url": "https://github.com/sandeepkunkunuru/math",
+      "created_at": "2026-10-09T05:09:56Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "seanbradley/math",
+      "html_url": "https://github.com/seanbradley/math",
+      "created_at": "2026-10-09T06:51:40Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "sgsxcwen/math",
+      "html_url": "https://github.com/sgsxcwen/math",
+      "created_at": "2026-10-07T11:15:06Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "sguzman/math-openai",
+      "html_url": "https://github.com/sguzman/math-openai",
+      "created_at": "2026-10-08T05:08:05Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "shreenorway/math",
+      "html_url": "https://github.com/shreenorway/math",
+      "created_at": "2026-10-09T09:07:52Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "sid-sarkar/math",
+      "html_url": "https://github.com/sid-sarkar/math",
+      "created_at": "2026-10-09T07:41:06Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "smdtwyd/math",
+      "html_url": "https://github.com/smdtwyd/math",
+      "created_at": "2026-10-09T01:29:06Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "soumyadip1995/math",
+      "html_url": "https://github.com/soumyadip1995/math",
+      "created_at": "2026-10-07T16:21:07Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "srghma/math",
+      "html_url": "https://github.com/srghma/math",
+      "created_at": "2026-10-09T08:58:47Z",
+      "pushed_at": "2026-10-09T08:59:02Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "taoiswode/math",
+      "html_url": "https://github.com/taoiswode/math",
+      "created_at": "2026-10-09T11:58:57Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "teerthsharma/math",
+      "html_url": "https://github.com/teerthsharma/math",
+      "created_at": "2026-10-06T23:42:28Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "thanhvdvbsp/math",
+      "html_url": "https://github.com/thanhvdvbsp/math",
+      "created_at": "2026-10-07T00:47:43Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 1,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "timohyva/OpenAI-math",
+      "html_url": "https://github.com/timohyva/OpenAI-math",
+      "created_at": "2026-10-09T08:55:21Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "vadost/math",
+      "html_url": "https://github.com/vadost/math",
+      "created_at": "2026-10-09T14:03:20Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "vgoer/math",
+      "html_url": "https://github.com/vgoer/math",
+      "created_at": "2026-10-09T08:21:18Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "victorvFING/math",
+      "html_url": "https://github.com/victorvFING/math",
+      "created_at": "2026-10-09T15:25:11Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "vivian571/math",
+      "html_url": "https://github.com/vivian571/math",
+      "created_at": "2026-10-09T10:15:22Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "wagnerchagas/math",
+      "html_url": "https://github.com/wagnerchagas/math",
+      "created_at": "2026-10-09T13:26:11Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "winklerj/math",
+      "html_url": "https://github.com/winklerj/math",
+      "created_at": "2026-10-07T03:00:03Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "wolf-bailang/math",
+      "html_url": "https://github.com/wolf-bailang/math",
+      "created_at": "2026-10-09T16:24:19Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "wuqing1982/math",
+      "html_url": "https://github.com/wuqing1982/math",
+      "created_at": "2026-10-09T12:24:32Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "wxb2016/math",
+      "html_url": "https://github.com/wxb2016/math",
+      "created_at": "2026-10-09T07:54:49Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "xaviercallens/xOpenAImath",
+      "html_url": "https://github.com/xaviercallens/xOpenAImath",
+      "created_at": "2026-10-07T19:10:42Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "xzllxls/math",
+      "html_url": "https://github.com/xzllxls/math",
+      "created_at": "2026-10-07T03:19:07Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "y0yang/openai_math",
+      "html_url": "https://github.com/y0yang/openai_math",
+      "created_at": "2026-10-09T10:05:48Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "yezhenyi126881/math",
+      "html_url": "https://github.com/yezhenyi126881/math",
+      "created_at": "2026-10-09T13:54:18Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "yhx1415926/openai-math",
+      "html_url": "https://github.com/yhx1415926/openai-math",
+      "created_at": "2026-10-09T12:25:14Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "ysazhao439-wq/math",
+      "html_url": "https://github.com/ysazhao439-wq/math",
+      "created_at": "2026-10-09T10:14:39Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "yuanfangtianya/math",
+      "html_url": "https://github.com/yuanfangtianya/math",
+      "created_at": "2026-10-07T05:44:37Z",
+      "pushed_at": "2026-10-06T22:01:11Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "yuyaqiong91-alt/math",
+      "html_url": "https://github.com/yuyaqiong91-alt/math",
+      "created_at": "2026-10-09T03:14:34Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "zhoukunlin/math",
+      "html_url": "https://github.com/zhoukunlin/math",
+      "created_at": "2026-10-09T07:09:21Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    },
+    {
+      "full_name": "zpfbuaa/math",
+      "html_url": "https://github.com/zpfbuaa/math",
+      "created_at": "2026-10-09T09:30:12Z",
+      "pushed_at": "2026-10-08T05:20:00Z",
+      "stargazers_count": 0,
+      "default_branch": "main"
+    }
+  ]
+}

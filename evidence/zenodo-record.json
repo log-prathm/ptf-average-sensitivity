@@ -1,0 +1,52 @@
+{
+  "id": 23269472,
+  "doi": "10.5281/zenodo.23269472",
+  "conceptdoi": "10.5281/zenodo.23269471",
+  "metadata": {
+    "title": "An elementary improvement of the average sensitivity bound for polynomial threshold functions",
+    "publication_date": "2026-10-09",
+    "creators": [
+      {
+        "name": "Lagdive, Prathmesh",
+        "affiliation": "M. S. Bidve Engineering College, Latur",
+        "orcid": "0009-0000-1080-1950"
+      },
+      {
+        "name": "Aglave, Vaibhav",
+        "affiliation": "M. S. Bidve Engineering College, Latur",
+        "orcid": "0009-0001-2604-4293"
+      },
+      {
+        "name": "Damre, Suraj",
+        "affiliation": "M. S. Bidve Engineering College, Latur",
+        "orcid": "0009-0002-7542-3086"
+      }
+    ],
+    "resource_type": {
+      "title": "Preprint",
+      "type": "publication",
+      "subtype": "preprint"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    }
+  },
+  "files": [
+    {
+      "name": "manuscript.pdf",
+      "checksum": "md5:90a116dbd75abd639b567f8fe6200e2a",
+      "size": 334389
+    },
+    {
+      "name": "supplementary-verification.zip",
+      "checksum": "md5:18b008246218e2f5d3c2eb261d38a6ea",
+      "size": 11482
+    },
+    {
+      "name": "manuscript-source.zip",
+      "checksum": "md5:252b7b2e54e04822f03f4e15b3662856",
+      "size": 18189
+    }
+  ],
+  "record_url": "https://zenodo.org/records/23269472"
+}

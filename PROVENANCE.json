@@ -1,0 +1,46 @@
+{
+  "prepared_date": "2026-10-10",
+  "status": "zenodo_published_github_release_prepared",
+  "authors": [
+    "Prathmesh Lagdive",
+    "Vaibhav Aglave",
+    "Suraj Damre"
+  ],
+  "affiliation": "M. S. Bidve Engineering College, Latur",
+  "original_argument": {
+    "author": "OpenAI",
+    "family": "127",
+    "source_url": "https://github.com/openai/math/blob/main/preprints/Average-Sensitivity-of-Polynomial-Threshold-Functions-September-25-2026/main.pdf",
+    "source_pdf_sha256": "441f9f8a40930603ba88967f00514a974f13a8f8ab901f71206b2b7dc82e4884",
+    "source_license_url": "https://github.com/openai/math/blob/main/LICENSE"
+  },
+  "manuscript_sha256": "cc4740ac9c0f73626bd7b54af05b6296059bbfa6e5f56ac513a8ac4d535cf07b",
+  "pdf_sha256": "60a59e0feebc29d67ddbc065666be54f2c821d61d10a2aafe9945d13c48dd726",
+  "source_changes": "The manuscript is the six-page platform version, byte-identical to the source/PDF uploaded to Zenodo. Its analytic proof and bibliography were preserved from the original checked draft. License and citation metadata now match the public record.",
+  "review_scope": "AI proof review and exact finite checks; no independent human peer review or Lean formalization of the 3.83 refinement.",
+  "license_map": {
+    "paper/": "CC-BY-4.0",
+    "checks/, proof notes, and repository documentation": "Apache-2.0"
+  },
+  "zenodo": {
+    "record_url": "https://zenodo.org/records/23269472",
+    "doi": "10.5281/zenodo.23269472",
+    "concept_doi": "10.5281/zenodo.23269471",
+    "publication_date_from_record": "2026-10-09",
+    "local_files_match_published_checksums": true,
+    "published_files": [
+      {
+        "name": "manuscript.pdf",
+        "checksum": "md5:90a116dbd75abd639b567f8fe6200e2a"
+      },
+      {
+        "name": "supplementary-verification.zip",
+        "checksum": "md5:18b008246218e2f5d3c2eb261d38a6ea"
+      },
+      {
+        "name": "manuscript-source.zip",
+        "checksum": "md5:252b7b2e54e04822f03f4e15b3662856"
+      }
+    ]
+  }
+}

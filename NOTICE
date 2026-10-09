@@ -1,0 +1,30 @@
+An elementary improvement of the average sensitivity bound for polynomial
+threshold functions
+
+Copyright 2026 Prathmesh Lagdive, Vaibhav Aglave, Suraj Damre
+
+The manuscript and its LaTeX source are licensed under Creative Commons
+Attribution 4.0 International; see paper/LICENSE-CC-BY-4.0. Verification code,
+recorded check outputs, proof notes, and repository documentation use Apache
+License 2.0; see LICENSE.
+
+The weighted Fourier-grading construction and edge-recovery argument are
+attributed to OpenAI, "Average sensitivity of polynomial threshold functions,"
+September 25, 2026, released October 6, 2026, OpenAI Math Release, family 127:
+https://github.com/openai/math/tree/main/preprints/Average-Sensitivity-of-Polynomial-Threshold-Functions-September-25-2026
+
+The upstream repository is distributed under Apache License 2.0:
+https://github.com/openai/math/blob/main/LICENSE
+
+The present note refines the coupling probability estimate and extracts a
+uniform coefficient 383/100. It includes an exposition of the original grading
+reduction with attribution, and additional verification scripts. The original
+OpenAI preprint and its Lean source are linked rather than redistributed here.
+
+OpenAI Codex assisted with deriving the refinement, writing the exposition,
+searching related work, and preparing and checking the verification scripts.
+The assistance is disclosed in the manuscript. This work is not endorsed by
+OpenAI. The listed authors and affiliation are those supplied for this note.
+
+Published preprint: https://zenodo.org/records/23269472
+DOI: 10.5281/zenodo.23269472

@@ -1,0 +1,3955 @@
+{
+  "retrieval_url": "https://api.crossref.org/works?query.title=average+sensitivity+polynomial+threshold+functions&rows=100&select=DOI%2Ctitle%2Cauthor%2Cpublished%2CURL%2Cabstract",
+  "retrieval_date": "2026-10-09",
+  "items": [
+    {
+      "DOI": "10.1137/110855223",
+      "title": [
+        "Average Sensitivity and Noise Sensitivity of Polynomial Threshold Functions"
+      ],
+      "author": [
+        {
+          "given": "Ilias",
+          "family": "Diakonikolas",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Prasad",
+          "family": "Raghavendra",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rocco A.",
+          "family": "Servedio",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Li-Yang",
+          "family": "Tan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1137/110855223"
+    },
+    {
+      "DOI": "10.1145/1806689.1806763",
+      "title": [
+        "Bounding the average sensitivity and noise sensitivity of polynomial threshold functions"
+      ],
+      "author": [
+        {
+          "given": "Ilias",
+          "family": "Diakonikolas",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Columbia University, New York, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Prahladh",
+          "family": "Harsha",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Tata Institute of Fundamental Research, Mumbai, India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Adam",
+          "family": "Klivans",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Texas at Austin, Austin, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Raghu",
+          "family": "Meka",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Texas at Austin, Austin, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Prasad",
+          "family": "Raghavendra",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Microsoft Research, New England, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rocco A.",
+          "family": "Servedio",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Columbia University, New York, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Li-Yang",
+          "family": "Tan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Columbia University, New York, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            6,
+            5
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1145/1806689.1806763"
+    },
+    {
+      "DOI": "10.1016/j.ic.2014.09.008",
+      "title": [
+        "Polynomial threshold functions and Boolean threshold circuits"
+      ],
+      "author": [
+        {
+          "given": "Kristoffer Arnsfelt",
+          "family": "Hansen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Vladimir V.",
+          "family": "Podolskii",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            2
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.ic.2014.09.008"
+    },
+    {
+      "DOI": "10.1007/978-3-642-40313-2_46",
+      "title": [
+        "Polynomial Threshold Functions and Boolean Threshold Circuits"
+      ],
+      "author": [
+        {
+          "given": "Kristoffer Arnsfelt",
+          "family": "Hansen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Vladimir V.",
+          "family": "Podolskii",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2013
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/978-3-642-40313-2_46"
+    },
+    {
+      "DOI": "10.52202/068431-1757",
+      "title": [
+        "Active Learning Polynomial Threshold Functions"
+      ],
+      "author": [
+        {
+          "given": "Omri",
+          "family": "Ben-Eliezer",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Max",
+          "family": "Hopkins",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Chutong",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hantao",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.52202/068431-1757"
+    },
+    {
+      "DOI": "10.52202/079017-0124",
+      "title": [
+        "Testably Learning Polynomial Threshold Functions"
+      ],
+      "author": [
+        {
+          "given": "Lucas",
+          "family": "Slot",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Stefan",
+          "family": "Tiegel",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Manuel",
+          "family": "Wiedmer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.52202/079017-0124"
+    },
+    {
+      "DOI": "10.1145/1806689.1806749",
+      "title": [
+        "Pseudorandom generators for polynomial threshold functions"
+      ],
+      "author": [
+        {
+          "given": "Raghu",
+          "family": "Meka",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of Texas, Austin, TX, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David",
+          "family": "Zuckerman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Texas, Austin, TX, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            6,
+            5
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1145/1806689.1806749"
+    },
+    {
+      "DOI": "10.1137/100811623",
+      "title": [
+        "Pseudorandom Generators for Polynomial Threshold Functions"
+      ],
+      "author": [
+        {
+          "given": "Raghu",
+          "family": "Meka",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David",
+          "family": "Zuckerman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1137/100811623"
+    },
+    {
+      "DOI": "10.1109/ccc.2003.1214406",
+      "title": [
+        "Extremal properties of polynomial threshold functions"
+      ],
+      "author": [
+        {
+          "given": "R.",
+          "family": "O'Donnell",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "R.A.",
+          "family": "Servedio",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1109/ccc.2003.1214406"
+    },
+    {
+      "DOI": "10.1109/fscs.1990.89585",
+      "title": [
+        "Polynomial threshold functions, AC functions and spectrum norms"
+      ],
+      "author": [
+        {
+          "given": "J.",
+          "family": "Bruck",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R.",
+          "family": "Smolensky",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1109/fscs.1990.89585"
+    },
+    {
+      "DOI": "10.1016/j.jcss.2007.06.021",
+      "title": [
+        "Extremal properties of polynomial threshold functions"
+      ],
+      "author": [
+        {
+          "given": "Ryan",
+          "family": "O'Donnell",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Rocco A.",
+          "family": "Servedio",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2008,
+            5
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.jcss.2007.06.021"
+    },
+    {
+      "DOI": "10.1137/0403015",
+      "title": [
+        "Harmonic Analysis of Polynomial Threshold Functions"
+      ],
+      "author": [
+        {
+          "given": "Jehoshua",
+          "family": "Bruck",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1990,
+            5
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1137/0403015"
+    },
+    {
+      "DOI": "10.1007/s00037-011-0012-6",
+      "title": [
+        "The Gaussian Surface Area and Noise Sensitivity of Degree-d Polynomial Threshold Functions"
+      ],
+      "author": [
+        {
+          "given": "Daniel M.",
+          "family": "Kane",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/s00037-011-0012-6"
+    },
+    {
+      "DOI": "10.1109/ccc.2010.27",
+      "title": [
+        "The Gaussian Surface Area and Noise Sensitivity of Degree-d Polynomial Threshold Functions"
+      ],
+      "author": [
+        {
+          "given": "Daniel M.",
+          "family": "Kane",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/ccc.2010.27"
+    },
+    {
+      "DOI": "10.2140/obs.2020.4.143",
+      "title": [
+        "Hypergeometric L-functions in average\npolynomial time"
+      ],
+      "author": [
+        {
+          "given": "Edgar",
+          "family": "Costa",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kiran S.",
+          "family": "Kedlaya",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David",
+          "family": "Roe",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            12,
+            29
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.2140/obs.2020.4.143"
+    },
+    {
+      "DOI": "10.1137/0221003",
+      "title": [
+        "Polynomial Threshold Functions, $AC^0 $ Functions, and Spectral Norms"
+      ],
+      "author": [
+        {
+          "given": "Jehoshua",
+          "family": "Bruck",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Roman",
+          "family": "Smolensky",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1992,
+            2
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1137/0221003"
+    },
+    {
+      "DOI": "10.1109/ccc.2011.13",
+      "title": [
+        "k-Independent Gaussians Fool Polynomial Threshold Functions"
+      ],
+      "author": [
+        {
+          "given": "Daniel M.",
+          "family": "Kane",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/ccc.2011.13"
+    },
+    {
+      "DOI": "10.1145/780542.780592",
+      "title": [
+        "New degree bounds for polynomial threshold functions"
+      ],
+      "author": [
+        {
+          "given": "Ryan",
+          "family": "O'Donnell",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "MIT, Cambridge, MA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rocco A.",
+          "family": "Servedio",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Columbia University, New York, NY"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2003,
+            6,
+            9
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1145/780542.780592"
+    },
+    {
+      "DOI": "10.1145/780591.780592",
+      "title": [
+        "New degree bounds for polynomial threshold functions"
+      ],
+      "author": [
+        {
+          "given": "Ryan",
+          "family": "O'Donnell",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Rocco A.",
+          "family": "Servedio",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2003
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1145/780591.780592"
+    },
+    {
+      "DOI": "10.1007/s00493-010-2173-3",
+      "title": [
+        "New degree bounds for polynomial threshold functions"
+      ],
+      "author": [
+        {
+          "given": "Ryan",
+          "family": "O\u2019Donnell",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Rocco A.",
+          "family": "Servedio",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            5
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/s00493-010-2173-3"
+    },
+    {
+      "DOI": "10.1007/s40993-024-00593-8",
+      "title": [
+        "Hypergeometric L-functions in average polynomial time, II"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-1367-7785",
+          "authenticated-orcid": false,
+          "given": "Edgar",
+          "family": "Costa",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8700-8758",
+          "authenticated-orcid": false,
+          "given": "Kiran S.",
+          "family": "Kedlaya",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3585-7525",
+          "authenticated-orcid": false,
+          "given": "David",
+          "family": "Roe",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            30
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/s40993-024-00593-8"
+    },
+    {
+      "DOI": "10.1137/19m1257792",
+      "title": [
+        "Polynomial Threshold Functions, Hyperplane Arrangements, and Random Tensors"
+      ],
+      "author": [
+        {
+          "given": "Pierre",
+          "family": "Baldi",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Roman",
+          "family": "Vershynin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1137/19m1257792"
+    },
+    {
+      "DOI": "10.1109/focs.2016.57",
+      "title": [
+        "Polynomial Representations of Threshold Functions and Algorithmic Applications"
+      ],
+      "author": [
+        {
+          "given": "Josh",
+          "family": "Alman",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Timothy M.",
+          "family": "Chan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ryan",
+          "family": "Williams",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            10
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/focs.2016.57"
+    },
+    {
+      "DOI": "10.1007/978-3-031-42697-1_10",
+      "title": [
+        "Average Sensitivity of\u00a0Nested Canalizing Multivalued Functions"
+      ],
+      "author": [
+        {
+          "given": "\u00c9lisabeth",
+          "family": "Remy",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Paul",
+          "family": "Ruet",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/978-3-031-42697-1_10"
+    },
+    {
+      "DOI": "10.1109/focs.2011.16",
+      "title": [
+        "A Small PRG for Polynomial Threshold Functions of Gaussians"
+      ],
+      "author": [
+        {
+          "given": "Daniel M.",
+          "family": "Kane",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            10
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/focs.2011.16"
+    },
+    {
+      "DOI": "10.1007/978-3-030-41702-4_5",
+      "title": [
+        "Monomial Evaluation of Polynomial Functions Protected by Threshold Implementations"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-8964-9126",
+          "authenticated-orcid": false,
+          "given": "Simon",
+          "family": "Landry",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8667-7471",
+          "authenticated-orcid": false,
+          "given": "Yanis",
+          "family": "Linge",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3998-0478",
+          "authenticated-orcid": false,
+          "given": "Emmanuel",
+          "family": "Prouff",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2020
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/978-3-030-41702-4_5"
+    },
+    {
+      "DOI": "10.1007/pl00013833",
+      "title": [
+        "A Polynomial-Time Algorithm for Learning Noisy Linear Threshold Functions"
+      ],
+      "author": [
+        {
+          "given": "A.",
+          "family": "Blum",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Frieze",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R.",
+          "family": "Kannan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Vempala",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1998,
+            9
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/pl00013833"
+    },
+    {
+      "DOI": "10.1137/1.9781611973082.123",
+      "title": [
+        "Hardness Results for Agnostically Learning Low-Degree Polynomial Threshold Functions"
+      ],
+      "author": [
+        {
+          "given": "Ilias",
+          "family": "Diakonikolas",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ryan",
+          "family": "O'Donnell",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rocco A.",
+          "family": "Servedio",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yi",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            1,
+            23
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1137/1.9781611973082.123"
+    },
+    {
+      "DOI": "10.1109/sfcs.1996.548492",
+      "title": [
+        "A polynomial-time algorithm for learning noisy linear threshold functions"
+      ],
+      "author": [
+        {
+          "given": "A.",
+          "family": "Blum",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Frieze",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R.",
+          "family": "Kannan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Vempala",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1109/sfcs.1996.548492"
+    },
+    {
+      "DOI": "10.1145/2591796.2591800",
+      "title": [
+        "Efficient deterministic approximate counting for low-degree polynomial threshold functions"
+      ],
+      "author": [
+        {
+          "given": "Anindya",
+          "family": "De",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute for Advanced Study, Princeton, NJ"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rocco A.",
+          "family": "Servedio",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Columbia University, New York, NY"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            5,
+            31
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1145/2591796.2591800"
+    },
+    {
+      "DOI": "10.1016/j.ic.2019.104439",
+      "title": [
+        "On XOR lemmas for the weight of polynomial threshold functions"
+      ],
+      "author": [
+        {
+          "given": "Kazuyuki",
+          "family": "Amano",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shoma",
+          "family": "Tate",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            12
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.ic.2019.104439"
+    },
+    {
+      "DOI": "10.1103/physrevd.4.2166",
+      "title": [
+        "Relations between Total Cross Sections, Average Multiplicities, and Threshold Functions"
+      ],
+      "author": [
+        {
+          "given": "William J.",
+          "family": "Meggs",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1971,
+            10,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1103/physrevd.4.2166"
+    },
+    {
+      "DOI": "10.1109/icnn.1994.374316",
+      "title": [
+        "Sensitivity of trained neural networks with threshold functions"
+      ],
+      "author": [
+        {
+          "family": "Sang-Hoon Oh",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "family": "Youngjik Lee",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1109/icnn.1994.374316"
+    },
+    {
+      "DOI": "10.1371/journal.pone.0064371",
+      "title": [
+        "Bounds on the Average Sensitivity of Nested Canalizing Functions"
+      ],
+      "author": [
+        {
+          "given": "Johannes Georg",
+          "family": "Klotz",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Reinhard",
+          "family": "Heckel",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Steffen",
+          "family": "Schober",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            5,
+            31
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1371/journal.pone.0064371"
+    },
+    {
+      "DOI": "10.1109/itw.1989.761437",
+      "title": [
+        "Polynomial Threshold Elements?"
+      ],
+      "author": [
+        {
+          "given": "J.",
+          "family": "Bruck",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1109/itw.1989.761437"
+    },
+    {
+      "DOI": "10.1016/s0020-0190(98)00140-9",
+      "title": [
+        "Pseudo-average block sensitivity equals average sensitivity"
+      ],
+      "author": [
+        {
+          "given": "S.",
+          "family": "Venkatesh",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1998,
+            10
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/s0020-0190(98)00140-9"
+    },
+    {
+      "DOI": "10.1109/ccc.2014.31",
+      "title": [
+        "Deterministic Approximate Counting for Juntas of Degree-2 Polynomial Threshold Functions"
+      ],
+      "author": [
+        {
+          "given": "Anindya",
+          "family": "De",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ilias",
+          "family": "Diakonikolas",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rocco A.",
+          "family": "Servedio",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/ccc.2014.31"
+    },
+    {
+      "DOI": "10.1007/pl00009809",
+      "title": [
+        "Boolean Functions With Low Average Sensitivity Depend On Few Coordinates"
+      ],
+      "author": [
+        {
+          "given": "Ehud",
+          "family": "Friedgut",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1998,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/pl00009809"
+    },
+    {
+      "DOI": "10.1016/j.dam.2018.05.014",
+      "title": [
+        "A characterization of nested canalyzing functions with maximum average sensitivity"
+      ],
+      "author": [
+        {
+          "given": "Richard E.",
+          "family": "Stearns",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Daniel J.",
+          "family": "Rosenkrantz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0893-4364",
+          "authenticated-orcid": false,
+          "given": "S.S.",
+          "family": "Ravi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Madhav V.",
+          "family": "Marathe",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            12
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.dam.2018.05.014"
+    },
+    {
+      "DOI": "10.1007/978-3-642-79758-3_5",
+      "title": [
+        "Polynomial Functions"
+      ],
+      "author": [
+        {
+          "given": "Christopher T. J.",
+          "family": "Dodson",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Elizabeth A.",
+          "family": "Gonzalez",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1995
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/978-3-642-79758-3_5"
+    },
+    {
+      "DOI": "10.1093/oso/9780192623133.003.0026",
+      "title": [
+        "Polynomial functions"
+      ],
+      "author": [
+        {
+          "given": "Steven",
+          "family": "Cruickshank",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Consultant Anaesthetist, Department of Anaesthesia, Newcastle General Hospital, Newcastle upon Tyne, UK"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1998,
+            8,
+            27
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1093/oso/9780192623133.003.0026"
+    },
+    {
+      "DOI": "10.1016/b978-0-12-259660-5.50008-8",
+      "title": [
+        "POLYNOMIAL FUNCTIONS"
+      ],
+      "author": [
+        {
+          "given": "Harley",
+          "family": "Flanders",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Justin J.",
+          "family": "Price",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1973
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/b978-0-12-259660-5.50008-8"
+    },
+    {
+      "DOI": "10.1090/prb/029/10",
+      "title": [
+        "Polynomial Functions"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            7,
+            25
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1090/prb/029/10"
+    },
+    {
+      "DOI": "10.1007/978-3-030-75051-0_7",
+      "title": [
+        "Polynomial Functions"
+      ],
+      "author": [
+        {
+          "given": "Gabor",
+          "family": "Toth",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/978-3-030-75051-0_7"
+    },
+    {
+      "DOI": "10.1007/978-3-662-05796-4_10",
+      "title": [
+        "Polynomial functions"
+      ],
+      "author": [
+        {
+          "given": "Kenneth",
+          "family": "Eriksson",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Donald",
+          "family": "Estep",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Claes",
+          "family": "Johnson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2004
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/978-3-662-05796-4_10"
+    },
+    {
+      "DOI": "10.22224/gistbok/2025.1.10",
+      "title": [
+        "Polynomial Functions"
+      ],
+      "author": [
+        {
+          "name": "Colby College",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Manuel",
+          "family": "Gimond",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.22224/gistbok/2025.1.10"
+    },
+    {
+      "DOI": "10.1007/978-3-031-66441-0_3",
+      "title": [
+        "Polynomial Functions"
+      ],
+      "author": [
+        {
+          "given": "Andrzej",
+          "family": "Sokolowski",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/978-3-031-66441-0_3"
+    },
+    {
+      "DOI": "10.1090/text/018/06",
+      "title": [
+        "Polynomial Functions"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2010
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1090/text/018/06"
+    },
+    {
+      "DOI": "10.1016/b978-0-12-259655-1.50007-x",
+      "title": [
+        "POLYNOMIAL FUNCTIONS"
+      ],
+      "author": [
+        {
+          "given": "Harley",
+          "family": "Flanders",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Justin J.",
+          "family": "Price",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1973
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/b978-0-12-259655-1.50007-x"
+    },
+    {
+      "DOI": "10.1007/978-0-387-48807-3_18",
+      "title": [
+        "Polynomial Functions"
+      ],
+      "author": [
+        {
+          "given": "Keith B.",
+          "family": "Oldham",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Jan C.",
+          "family": "Myland",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Jerome",
+          "family": "Spanier",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2008
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/978-0-387-48807-3_18"
+    },
+    {
+      "DOI": "10.1007/978-3-031-86319-6_11",
+      "title": [
+        "Polynomial Threshold Functions of Bounded Tree-Width: Some Explainability and Complexity Aspects"
+      ],
+      "author": [
+        {
+          "given": "Karine",
+          "family": "Chubarian",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Johnny",
+          "family": "Joyce",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Gy\u00f6rgy",
+          "family": "Tur\u00e1n",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/978-3-031-86319-6_11"
+    },
+    {
+      "DOI": "10.4324/9781032671703-4",
+      "title": [
+        "Average Functions"
+      ],
+      "author": [
+        {
+          "given": "R.",
+          "family": "Panneerselvam",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            27
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.4324/9781032671703-4"
+    },
+    {
+      "DOI": "10.1364/oam.1993.fm.3",
+      "title": [
+        "Threshold versus radiance (TVR) functions for S-cone contrast sensitivity"
+      ],
+      "author": [
+        {
+          "given": "William H.",
+          "family": "Swanson",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1993
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1364/oam.1993.fm.3"
+    },
+    {
+      "DOI": "10.1016/0020-0255(87)90003-x",
+      "title": [
+        "Polynomial-average-time satisfiability problems"
+      ],
+      "author": [
+        {
+          "suffix": "Jr.",
+          "given": "Paul Walton",
+          "family": "Purdom",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Cynthia A.",
+          "family": "Brown",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1987,
+            2
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/0020-0255(87)90003-x"
+    },
+    {
+      "DOI": "10.1088/1674-1056/20/3/036401",
+      "title": [
+        "Control of random Boolean networks via average sensitivity of Boolean functions"
+      ],
+      "author": [
+        {
+          "given": "Shi-Jian",
+          "family": "Chen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Yi-Guang",
+          "family": "Hong",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            3
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1088/1674-1056/20/3/036401"
+    },
+    {
+      "DOI": "10.1109/ccc.2014.30",
+      "title": [
+        "A Pseudorandom Generator for Polynomial Threshold Functions of Gaussian with Subpolynomial Seed Length"
+      ],
+      "author": [
+        {
+          "given": "Daniel M.",
+          "family": "Kane",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/ccc.2014.30"
+    },
+    {
+      "DOI": "10.1109/ccc.2010.28",
+      "title": [
+        "A Regularity Lemma, and Low-Weight Approximators, for Low-Degree Polynomial Threshold Functions"
+      ],
+      "author": [
+        {
+          "given": "Ilias",
+          "family": "Diakonikolas",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rocco A.",
+          "family": "Servedio",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Li-Yang",
+          "family": "Tan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andrew",
+          "family": "Wan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/ccc.2010.28"
+    },
+    {
+      "DOI": "10.1017/cbo9781316408124.007",
+      "title": [
+        "Polynomial Ridge Functions"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            8,
+            7
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1017/cbo9781316408124.007"
+    },
+    {
+      "DOI": "10.1007/978-94-011-1723-4_11",
+      "title": [
+        "Piecewise polynomial functions"
+      ],
+      "author": [
+        {
+          "given": "Niels",
+          "family": "Schwartz",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1993
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/978-94-011-1723-4_11"
+    },
+    {
+      "DOI": "10.2307/jj.8501542.6",
+      "title": [
+        "THRESHOLD FUNCTIONS"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            15
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.2307/jj.8501542.6"
+    },
+    {
+      "DOI": "10.1007/s00605-021-01614-9",
+      "title": [
+        "Separately polynomial functions"
+      ],
+      "author": [
+        {
+          "given": "Gergely",
+          "family": "Kiss",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mikl\u00f3s",
+          "family": "Laczkovich",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            9,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/s00605-021-01614-9"
+    },
+    {
+      "DOI": "10.1115/1.802264.ch3",
+      "title": [
+        "Threshold Functions"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2005
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1115/1.802264.ch3"
+    },
+    {
+      "DOI": "10.1017/cbo9780511852008.010",
+      "title": [
+        "Threshold functions"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            5,
+            16
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1017/cbo9780511852008.010"
+    },
+    {
+      "DOI": "10.1007/bfb0100186",
+      "title": [
+        "Polynomial-like functions"
+      ],
+      "author": [
+        {
+          "given": "W\u0142adys\u0142aw",
+          "family": "Narkiewicz",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1984
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/bfb0100186"
+    },
+    {
+      "DOI": "10.1002/9781119426479.app6",
+      "title": [
+        "Polynomial mapping functions"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            5,
+            28
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1002/9781119426479.app6"
+    },
+    {
+      "DOI": "10.2172/7281845",
+      "title": [
+        "Piecewise polynomial functions"
+      ],
+      "author": [
+        {
+          "given": "R. E.",
+          "family": "Carlson",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1976,
+            1,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.2172/7281845"
+    },
+    {
+      "DOI": "10.1007/bf01950276",
+      "title": [
+        "Polynomial functions (modm)"
+      ],
+      "author": [
+        {
+          "given": "G.",
+          "family": "Mullen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "H.",
+          "family": "Stevens",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1984,
+            9
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/bf01950276"
+    },
+    {
+      "DOI": "10.3150/14-bej656",
+      "title": [
+        "Polynomial Pickands functions"
+      ],
+      "author": [
+        {
+          "given": "Simon",
+          "family": "Guillotte",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fran\u00e7ois",
+          "family": "Perron",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            2,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.3150/14-bej656"
+    },
+    {
+      "DOI": "10.1007/0-387-21624-3_20",
+      "title": [
+        "Examining Polynomial Functions"
+      ],
+      "URL": "https://doi.org/10.1007/0-387-21624-3_20"
+    },
+    {
+      "DOI": "10.1017/s0143385700007975",
+      "title": [
+        "Polynomial beta functions"
+      ],
+      "author": [
+        {
+          "given": "Valerio De",
+          "family": "Angelis",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1994,
+            9
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1017/s0143385700007975"
+    },
+    {
+      "DOI": "10.1090/dimacs/060/08",
+      "title": [
+        "Minimizing polynomial functions"
+      ],
+      "author": [
+        {
+          "given": "Pablo",
+          "family": "Parrilo",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Bernd",
+          "family": "Sturmfels",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2003,
+            5,
+            21
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1090/dimacs/060/08"
+    },
+    {
+      "DOI": "10.1007/bf02579198",
+      "title": [
+        "Threshold functions"
+      ],
+      "author": [
+        {
+          "given": "B.",
+          "family": "Bollob\u00e1s",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A. G.",
+          "family": "Thomason",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1987,
+            3
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/bf02579198"
+    },
+    {
+      "DOI": "10.1109/72.392264",
+      "title": [
+        "Sensitivity analysis of single hidden-layer neural networks with threshold functions"
+      ],
+      "author": [
+        {
+          "family": "Sang-Hoon Oh",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "family": "Youngjik Lee",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1995,
+            7
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/72.392264"
+    },
+    {
+      "DOI": "10.1103/physreve.109.044208",
+      "title": [
+        "Uncertainty quantification of time-average quantities of chaotic systems using sensitivity-enhanced polynomial chaos expansion"
+      ],
+      "author": [
+        {
+          "given": "Kyriakos D.",
+          "family": "Kantarakias",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Aeronautics, Imperial College London, London SW7 2AZ, United Kingdom"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0594-3107",
+          "authenticated-orcid": true,
+          "given": "George",
+          "family": "Papadakis",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Aeronautics, Imperial College London, London SW7 2AZ, United Kingdom"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            12
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1103/physreve.109.044208"
+    },
+    {
+      "DOI": "10.1109/isit.2009.5205939",
+      "title": [
+        "Average entropy functions"
+      ],
+      "author": [
+        {
+          "family": "Qi Chen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "family": "Chen He",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "family": "Lingge Jiang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "family": "Qingchuan Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2009,
+            6
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/isit.2009.5205939"
+    },
+    {
+      "DOI": "10.22237/jmasm/1304223720",
+      "title": [
+        "Bayesian Threshold Moving Average Models"
+      ],
+      "author": [
+        {
+          "given": "Mahmoud M.",
+          "family": "Smadi",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Jordan University of Science and Technology"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "M. T.",
+          "family": "Alodat",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Yarmouk University, Irbid, Jordan"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            5,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.22237/jmasm/1304223720"
+    },
+    {
+      "DOI": "10.1016/j.disc.2022.112912",
+      "title": [
+        "Combined weight and density bounds on the polynomial threshold function representation of Boolean functions"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-3051-6038",
+          "authenticated-orcid": false,
+          "given": "Erhan",
+          "family": "Oztop",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Minoru",
+          "family": "Asada",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            8
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.disc.2022.112912"
+    },
+    {
+      "DOI": "10.1111/1467-9892.00074",
+      "title": [
+        "On threshold moving\u2010average models"
+      ],
+      "author": [
+        {
+          "given": "Jan De",
+          "family": "Gooijer",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1998,
+            1
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1111/1467-9892.00074"
+    },
+    {
+      "DOI": "10.1109/icarcv.2012.6485217",
+      "title": [
+        "Threshold phenomenon for average consensus"
+      ],
+      "author": [
+        {
+          "given": "Yiming",
+          "family": "Ji",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Changbin",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Brian D.O.",
+          "family": "Anderson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2012,
+            12
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/icarcv.2012.6485217"
+    },
+    {
+      "DOI": "10.1007/s12095-021-00497-9",
+      "title": [
+        "Monomial evaluation of polynomial functions protected by threshold implementations\u2014with an illustration on AES\u2014"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-8964-9126",
+          "authenticated-orcid": false,
+          "given": "Simon",
+          "family": "Landry",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Yanis",
+          "family": "Linge",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Emmanuel",
+          "family": "Prouff",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            7
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/s12095-021-00497-9"
+    },
+    {
+      "DOI": "10.1007/s11117-015-0367-z",
+      "title": [
+        "Nonnegative Morse polynomial functions and polynomial optimization"
+      ],
+      "author": [
+        {
+          "given": "L\u00ea",
+          "family": "C\u00f4ng-Tr\u00ecnh",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            21
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/s11117-015-0367-z"
+    },
+    {
+      "DOI": "10.1007/978-3-7091-6711-3_8",
+      "title": [
+        "Characteristic Polynomial Differential Sensitivity"
+      ],
+      "author": [
+        {
+          "given": "Alexander",
+          "family": "Weinmann",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1991
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/978-3-7091-6711-3_8"
+    },
+    {
+      "DOI": "10.1109/fuzz-ieee.2017.8015631",
+      "title": [
+        "Aggregation functions given by polynomial functions"
+      ],
+      "author": [
+        {
+          "given": "Sebastia",
+          "family": "Massanet",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Juan Vicente",
+          "family": "Riera",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Joan",
+          "family": "Torrens",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            7
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1109/fuzz-ieee.2017.8015631"
+    },
+    {
+      "DOI": "10.14495/jsiaml.9.1",
+      "title": [
+        "Malliavin sensitivity analysis with polynomial growth payoff functions under the Black-Scholes model"
+      ],
+      "author": [
+        {
+          "given": "Kazuya",
+          "family": "Yamamura",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Graduate School of Science and Engineering, Hosei University"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Kazuhiro",
+          "family": "Yasuda",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Science and Engineering, Hosei University"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.14495/jsiaml.9.1"
+    },
+    {
+      "DOI": "10.1364/navs.1993.nma.3",
+      "title": [
+        "Increment threshold spectral sensitivity functions on coloured backgrounds: Implications for colour perimetry"
+      ],
+      "author": [
+        {
+          "given": "Chris",
+          "family": "Hudson",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "John M.",
+          "family": "Wild",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1993
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1364/navs.1993.nma.3"
+    },
+    {
+      "DOI": "10.1007/978-0-8176-4629-5_3",
+      "title": [
+        "Polynomial Functions Involving Determinants"
+      ],
+      "author": [
+        {
+          "given": "Titu",
+          "family": "Andreescu",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Cristinel",
+          "family": "Mortici",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Marian",
+          "family": "Tetiva",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/978-0-8176-4629-5_3"
+    },
+    {
+      "DOI": "10.2352/issn.2470-1173.2021.11.hvei-153",
+      "title": [
+        "Color Threshold Functions: Application of Contrast Sensitivity Functions in Standard and High Dynamic Range Color Spaces"
+      ],
+      "author": [
+        {
+          "given": "Minjung",
+          "family": "Kim",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Maryam",
+          "family": "Azimi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Rafa\u0142 K.",
+          "family": "Mantiuk",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            18
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.2352/issn.2470-1173.2021.11.hvei-153"
+    },
+    {
+      "DOI": "10.1145/75334.75343",
+      "title": [
+        "Optimum polynomial retrieval functions"
+      ],
+      "author": [
+        {
+          "given": "N.",
+          "family": "Fuhr",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Technische Hochschule Darmstadt, Fachbereich Informatik, Karolinenplatz 5, D-6100 Darmstadt / West Germany"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1989,
+            5
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1145/75334.75343"
+    },
+    {
+      "DOI": "10.4064/cm-24-1-95-101",
+      "title": [
+        "On almost polynomial functions"
+      ],
+      "author": [
+        {
+          "given": "Roman",
+          "family": "Ger",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1971
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.4064/cm-24-1-95-101"
+    },
+    {
+      "DOI": "10.1017/cbo9780511470899.002",
+      "title": [
+        "Polynomial functions and combinatorics"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1994,
+            1,
+            27
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1017/cbo9780511470899.002"
+    },
+    {
+      "DOI": "10.1016/j.jmps.2010.08.005",
+      "title": [
+        "Convex polynomial yield functions"
+      ],
+      "author": [
+        {
+          "given": "Stefan",
+          "family": "Soare",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fr\u00e9d\u00e9ric",
+          "family": "Barlat",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            11
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/j.jmps.2010.08.005"
+    },
+    {
+      "DOI": "10.1142/s0219498820500395",
+      "title": [
+        "Everywhere vanishing polynomial functions"
+      ],
+      "author": [
+        {
+          "given": "Sagnik",
+          "family": "Chakraborty",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Stat-Math Unit, Indian Statistical Institute, 203, B. T. Road, Kolkata 700108, West Bengal, India"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            27
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1142/s0219498820500395"
+    },
+    {
+      "DOI": "10.1515/9783112472668-017",
+      "title": [
+        "7.2. Polynomial Objective Functions"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1988,
+            12,
+            31
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1515/9783112472668-017"
+    },
+    {
+      "DOI": "10.1007/bf02574201",
+      "title": [
+        "Polynomial functions over monoids"
+      ],
+      "author": [
+        {
+          "given": "Robert F.",
+          "family": "Tichy",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1979,
+            12
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/bf02574201"
+    },
+    {
+      "DOI": "10.1093/hesc/9780199216345.003.0008",
+      "title": [
+        "Quadratic and polynomial functions"
+      ],
+      "author": [
+        {
+          "given": "Martin B",
+          "family": "Reed",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            3,
+            31
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1093/hesc/9780199216345.003.0008"
+    },
+    {
+      "DOI": "10.1007/bf01199018",
+      "title": [
+        "On separately polynomial functions"
+      ],
+      "author": [
+        {
+          "given": "Zolt\ufffdn",
+          "family": "Sasv\ufffdri",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1992,
+            7
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1007/bf01199018"
+    },
+    {
+      "DOI": "10.1145/75335.75343",
+      "title": [
+        "Optimum polynomial retrieval functions"
+      ],
+      "author": [
+        {
+          "given": "N.",
+          "family": "Fuhr",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Technische Hochschule Darmstadt, Fachbereich Informatik, Karolinenplatz 5, D-6100 Darmstadt / West Germany"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1989,
+            5
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1145/75335.75343"
+    },
+    {
+      "DOI": "10.1017/cbo9781139105798.029",
+      "title": [
+        "Polynomial growth harmonic functions"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2012,
+            5,
+            3
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1017/cbo9781139105798.029"
+    },
+    {
+      "DOI": "10.1017/cbo9780511600647.012",
+      "title": [
+        "Polynomial functions and representations"
+      ],
+      "author": [
+        {
+          "given": "H.K.",
+          "family": "Farahat",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1987,
+            1,
+            8
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1017/cbo9780511600647.012"
+    },
+    {
+      "DOI": "10.1016/b978-0-12-259666-7.50008-2",
+      "title": [
+        "POLYNOMIAL AND RATIONAL FUNCTIONS"
+      ],
+      "author": [
+        {
+          "given": "Harley",
+          "family": "Flanders",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Justin J.",
+          "family": "Price",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            1975
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1016/b978-0-12-259666-7.50008-2"
+    }
+  ],
+  "scope": "Bibliographic metadata only; title-query hits require relevance screening."
+}
