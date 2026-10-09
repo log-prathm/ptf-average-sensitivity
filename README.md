@@ -5,15 +5,19 @@ M. S. Bidve Engineering College, Latur
 
 **Published preprint:** [Zenodo record](https://zenodo.org/records/23269472) · [DOI: 10.5281/zenodo.23269472](https://doi.org/10.5281/zenodo.23269472).
 
-This research note refines the probability step in [OpenAI's weighted-grading proof](https://github.com/openai/math/blob/main/preprints/Average-Sensitivity-of-Polynomial-Threshold-Functions-September-25-2026/main.pdf). For every real polynomial threshold function of degree at most $d$ on the uniform Boolean cube $\{-1,1\}^n$, it derives
+This research note refines the probability step in [OpenAI's weighted-grading proof](https://github.com/openai/math/blob/main/preprints/Average-Sensitivity-of-Polynomial-Threshold-Functions-September-25-2026/main.pdf). For every real polynomial threshold function of degree at most $d$ on the uniform Boolean cube $`\{-1,1\}^n`$, it derives
 
-$$\operatorname{AS}(f)\le 3.83\,d\sqrt n.$$
+```math
+\mathrm{AS}(f) \le 3.83\,d\sqrt{n}.
+```
 
-The estimate is uniform in dimension and degree and uses $\operatorname{sgn}(0)=1$. It improves the coefficient $8$ in the cited argument. The weighted grading and edge-recovery construction remain attributed to OpenAI.
+The estimate is uniform in dimension and degree and uses $\mathrm{sgn}(0)=1$. It improves the coefficient $8$ in the cited argument. The weighted grading and edge-recovery construction remain attributed to OpenAI.
 
-If $b_n=\mathbb E|B_n-n/2|$, where $B_n\sim\operatorname{Bin}(n,1/2)$, the more precise estimate is
+If $b_n=\mathbb{E}|B_n-n/2|$, where $B_n\sim\mathrm{Bin}(n,1/2)$, the more precise estimate is
 
-$$\operatorname{AS}(f)\le\min\{n,\;8d b_n+2d^2,\;10d b_n\}.$$
+```math
+\mathrm{AS}(f) \le \min\{n,\;8d\,b_n+2d^2,\;10d\,b_n\}.
+```
 
 For $d=o(\sqrt n)$, this gives an asymptotic coefficient $8/\sqrt{2\pi}$. The value $3.83$ is a sufficient uniform coefficient; optimality is not claimed.
 

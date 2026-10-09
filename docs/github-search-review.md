@@ -4,7 +4,7 @@ Checked: **9 October 2026**.
 
 **Finding:** no matching or stronger uniform refinement was identified in the sources checked. This is a bounded search result, not independent confirmation of priority and not proof that no other GitHub artifact exists.
 
-The comparison is for every degree-at-most-$d$ real polynomial threshold function on the uniform $n$-dimensional Boolean cube, with $\operatorname{sgn}(0)=1$, and a coefficient independent of both $n$ and $d$. An equivalent refinement or a coefficient at most $3.83$ would be relevant. A different notion of sensitivity, a result for a restricted class, or an unrelated occurrence of the number 3.83 does not establish the same theorem.
+The comparison is for every degree-at-most-$d$ real polynomial threshold function on the uniform $n$-dimensional Boolean cube, with $\mathrm{sgn}(0)=1$, and a coefficient independent of both $n$ and $d$. An equivalent refinement or a coefficient at most $3.83$ would be relevant. A different notion of sensitivity, a result for a restricted class, or an unrelated occurrence of the number 3.83 does not establish the same theorem.
 
 ## Sources checked in detail
 

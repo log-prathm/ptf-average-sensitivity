@@ -2,9 +2,9 @@
 
 Checked: **9 October 2026**. The theorem under comparison is
 
-\[
- \operatorname{AS}(f)\le C\,d\sqrt n
-\]
+```math
+ \mathrm{AS}(f)\le C\,d\sqrt n
+```
 
 for every real polynomial threshold function on the **uniform Boolean cube**, uniformly over every dimension $n\ge1$ and degree $1\le d\le n$. The constant must be independent of both parameters. This matches family 127's stated scope. Gaussian bounds, fixed-degree bounds with dimension-dependent logarithms, lower bounds, and stronger estimates on special classes do not supply a smaller constant for this theorem.
 
@@ -21,8 +21,8 @@ for every real polynomial threshold function on the **uniform Boolean cube**, un
 | [Tseng, Volberg, June 2026, version 2](https://arxiv.org/html/2606.16004v2) | Bounds on sensitivity moments. Section 2.5, equation (11), retains a factor $(\log n)^{C d\log d}$ at moment order one | No smaller uniform $C$ |
 | [Pavlov, May 2026](https://arxiv.org/html/2605.01637v1) | An influence-dependent Walsh invariant and finite ternary-threshold computations | No universal degree-versus-influence theorem of the target form |
 | [Grebennikov, October 7, 2026, version 2](https://arxiv.org/html/2610.08708v2) | Influence bounds for bounded-degree rational functions and nonvanishing indicators; its update cites OpenAI's Gotsman–Linial proof | These are different classes. The paper explicitly states that its rational-function result does not imply the full Gotsman–Linial bound |
-| [OpenAI, September 25 manuscript, released October 6, 2026](https://github.com/openai/math/blob/main/preprints/Average-Sensitivity-of-Polynomial-Threshold-Functions-September-25-2026/main.pdf) | $\operatorname{AS}(f)\le8d\sqrt n$ | **Best comparable numerical constant located: 8** |
-| [This derivation](../127-improved-bound.md) | $\operatorname{AS}(f)\le(383/100)d\sqrt n$; exact deviation bound also supplied | 3.83 is below 8, under the same theorem assumptions |
+| [OpenAI, September 25 manuscript, released October 6, 2026](https://github.com/openai/math/blob/main/preprints/Average-Sensitivity-of-Polynomial-Threshold-Functions-September-25-2026/main.pdf) | $\mathrm{AS}(f)\le8d\sqrt n$ | **Best comparable numerical constant located: 8** |
+| [This derivation](../127-improved-bound.md) | $\mathrm{AS}(f)\le(383/100)d\sqrt n$; exact deviation bound also supplied | 3.83 is below 8, under the same theorem assumptions |
 
 The OpenAI [formalization scope](https://github.com/openai/math/blob/main/lean/docs/127.md) also states the constant 8 and distinguishes the uniform bound from the conjecture about exact extremizers. That page was read; its Lean proof library was not rebuilt.
 
